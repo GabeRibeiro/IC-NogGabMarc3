@@ -40,7 +40,7 @@ void fcmMain(string ficheiros[],int n_files,int k,string output_file)
             for (int j = 0; j < line.size(); ++j)
             {
                 
-                character1 = line[j]; //recolhe novo caracter
+                character1 = tolower(line[j]); //recolhe novo caracter
                 
                 if (character1 >= 'A' && character1 <= 'Z' || character1 >= 'a' && character1 <= 'z') //se for letra
                 {   
@@ -84,8 +84,6 @@ void fcmMain(string ficheiros[],int n_files,int k,string output_file)
     }
     
 
-    ofs << "ctx\tletter\tcount" << endl;
-
     for (auto it:map1) //percorre o mapa principal
     {   
         occur = 0;
@@ -96,7 +94,7 @@ void fcmMain(string ficheiros[],int n_files,int k,string output_file)
         {
             occur += it2.second; //conta numero de vezes que um certo contexto apareceu
             appCnt.push_back(it2.second); // guarda o numero de vezes que cada letra apareceu depois do contexto
-            ofs << it.first << "\t" << it2.first << "\t\t" << it2.second << endl;
+            ofs << it.first << "\t" << it2.first << "\t" << it2.second << endl;
         }
         total_ctx_count += occur; // conta total dos totais da soma dos contextos
         for(auto it3:appCnt) 
@@ -122,11 +120,11 @@ void fcmMain(string ficheiros[],int n_files,int k,string output_file)
         model_entropy += (double) entropy_cnt[i] * ((double) ctxtotal[i]/ (double) total_ctx_count); //entropia final do modelo seguindo a formula (soma (Entropia(ctx) * Prob(ctx)))
     }
 
-    ofs << "--------------------------------" << endl;
+    //ofs << "--------------------------------" << endl;
     cout << "Entropy = " << model_entropy << endl;
-    ofs << "Entropy = " << model_entropy << endl;
-    ofs << "Total Letters = " << total_letters << endl;
-    ofs << "Total Contexts = " << total_ctx_count << endl;
+    //ofs << "Entropy = " << model_entropy << endl;
+    //ofs << "Total Letters = " << total_letters << endl;
+    //ofs << "Total Contexts = " << total_ctx_count << endl;
     ofs.close();
 }
 
