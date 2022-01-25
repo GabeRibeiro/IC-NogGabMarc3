@@ -136,7 +136,6 @@ int main(int argc, char *argv[])
     if(argc != 3){
         puts("\nUsage: output_file order");
         exit(1);
-
     }
 
     int k = atoi(argv[2]);
