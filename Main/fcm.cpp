@@ -137,7 +137,7 @@ int main(int argc, char *argv[])
     }
 
     int k = atoi(argv[2]);
-    string ficheiros[] = {"texto.txt","texto2.txt","texto3.txt"};
+    string ficheiros[] = {"modelo3.txt"};//{"texto.txt","texto2.txt","texto3.txt"};
     
     
     // MainFunction
