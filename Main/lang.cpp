@@ -70,7 +70,7 @@ int main(int argc, char *argv[]){
         circularBuffer.clear(); //limpa o buffer quando muda a linha
         for (int j = 0; j < rdline.size(); ++j){
             c = tolower(rdline[j]); //recolhe novo caracter
-            if (c >= 'A' && c <= 'Z' || c >= 'a' && c <= 'z') //se for letra
+            if (!isspace(c)) //se for letra
             {   
                 total_letters++; //conta o número de letras
                 if(fillcb < k)// enquanto o buffer ainda não está cheio

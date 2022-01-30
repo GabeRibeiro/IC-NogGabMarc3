@@ -7,7 +7,7 @@
 #include <vector>
 using namespace std;
 
-void fcmMain(string ficheiros[],int n_files,int k,string output_file)
+void fcmMain(vector<string> ficheiros,int k,string output_file)
 {
     vector<char> circularBuffer;
     vector<int> appCnt,ctxtotal;
@@ -17,13 +17,15 @@ void fcmMain(string ficheiros[],int n_files,int k,string output_file)
     int total_ctx_count = 0, sum_non = 0, fillcb = 0, occur = 0,aux_cnt, cb_ptr = 0,total_letters = 0;
     double prob, percent, log_val, entropy = 0, model_entropy;
     string aux, aux2;
-    string file, line;
+    string file;
+    string  line;
     ofstream ofs(output_file); 
 
-    for (int i = 0; i < n_files;i++)
-    {
-        ifstream ifs(ficheiros[i]);
-        circularBuffer.clear();
+    for (int i = 0; i < ficheiros.size();i++)
+    {  
+
+        ifstream ifs(ficheiros.at(i));
+        circularBuffer.clear(); //limpa o buffer quando muda o ficheiro
         if (!ifs.is_open())
         {
             cout << "Can't open file." << endl;
@@ -35,14 +37,14 @@ void fcmMain(string ficheiros[],int n_files,int k,string output_file)
         //loop until the file ends
         while (getline(ifs, line))
         {
+            
             fillcb=0; //contador de elementos do buffer fica a 0 quando muda a linha
             circularBuffer.clear(); //limpa o buffer quando muda a linha
             for (int j = 0; j < line.size(); ++j)
             {
-                
+            
                 character1 = tolower(line[j]); //recolhe novo caracter
-                
-                if (character1 >= 'A' && character1 <= 'Z' || character1 >= 'a' && character1 <= 'z') //se for letra
+                if (!isspace(character1)) //se for letra
                 {   
                     total_letters++; //conta o número de letras
                     if(fillcb < k)// enquanto o buffer ainda não está cheio
@@ -67,14 +69,9 @@ void fcmMain(string ficheiros[],int n_files,int k,string output_file)
                         cb_ptr = ((cb_ptr + 1) % k); //incrementa o ponteiro do circular buffer
                         circularBuffer[cb_ptr] = character1; //adiciona o novo caracter ao buffer
                         map1[aux][character1]++; //adiciona contexto e letra ao mapa
+                       
                     }
                     
-                }
-                
-                else
-                {
-                    ++sum_non; //não letras (não usado)
-                    continue;
                 }
                 
             }
@@ -109,7 +106,6 @@ void fcmMain(string ficheiros[],int n_files,int k,string output_file)
             entropy += prob * log_val; //entropia da linha
 
 
-
         }
         entropy_cnt.push_back(-1 * entropy); //guardar entropia de cada ctx
         ctxtotal.push_back(occur); // guarda o numero de vezes que cada ctx ocorreu
@@ -131,17 +127,19 @@ void fcmMain(string ficheiros[],int n_files,int k,string output_file)
 int main(int argc, char *argv[])
 {   
     
-    if(argc != 3){
-        puts("\nUsage: output_file order");
+    if(argc < 4){
+        puts("\nUsage: [text_files] order results_file(recommended csv file)");
         exit(1);
     }
 
-    int k = atoi(argv[2]);
-    string ficheiros[] = {"modelo3.txt"};//{"texto.txt","texto2.txt","texto3.txt"};
-    
-    
+    int k = atoi(argv[argc-2]);
+    vector<string> ficheiros;
+    for(int i = 1; i<=argc-3;i++)
+    {
+        ficheiros.push_back(argv[i]);
+    }
     // MainFunction
-    fcmMain(ficheiros,sizeof(ficheiros)/sizeof(ficheiros[0]),k,argv[1]);
+    fcmMain(ficheiros,k,argv[argc-1]);
     
     
     return 0;
