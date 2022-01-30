@@ -133,7 +133,7 @@ int main(int argc, char *argv[]){
         cout << "\npi  ";
         //probabilidade de cada elem do contexto
         for(int i=0; i<occur.size(); i++){
-            pi.push_back( double((occur[i]+alpha)/(tc_aux+alpha*4)) );
+            pi.push_back( double((occur[i]+alpha)/(tc_aux+alpha*26)) );
             cout << pi.back() << ", ";
         }cout << "\nhi  ";
         for(int i=0; i<pi.size(); i++){
