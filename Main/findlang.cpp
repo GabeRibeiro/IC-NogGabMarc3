@@ -114,7 +114,7 @@ int getCompressBits(mapa &t_map, int num_symbols, double alpha){
         total_ctx.push_back(tc_aux); 
 
         for(int i=0; i<occur.size(); i++)
-            pi.push_back( double((occur[i]+alpha)/(tc_aux+alpha*4)) );
+            pi.push_back( double((occur[i]+alpha)/(tc_aux+alpha*26)) );
         for(int i=0; i<pi.size(); i++)
             hi.push_back( double(pi[i]*log2(pi[i])) );
         for(int i=0; i<hi.size(); i++)
