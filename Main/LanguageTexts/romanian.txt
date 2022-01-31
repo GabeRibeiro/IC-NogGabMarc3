@@ -1,0 +1,1420 @@
+acel ciine, de la oricare alt model al creierului. Chiar daca acel ciine nu a mai 
+fost intilnit, un model ZM poate sa faca evaluari de comportament a rasei careia 
+ii apartine acel ciine sau in functie de comportamentul lui asa cum este reflectat 
+de modelele M dar si in functie de alte modele ZM existente.
+
+Pe nivelul 2 deci, modelele ZM cu bataie lunga sunt in stare sa integreze 
+informatiile date de modelele M.
+
+Aici putem deja sa dam  definitiile a doi termeni foarte importanti: cunoasterea 
+si constiinta. 
+
+Cunoasterea este capacitatea de a prezice evolutia realitatii externe pe baza unei 
+structuri de modele armonice/logice asociate acelei realitati externe. Aceasta 
+structura de modele a generat deja un mare numar de predictii deja confirmate. 
+Asta inseamna ca singura garantie a predictiei corecte este increderea in 
+structura de modele disponibile. Vom reveni la aceasta problema.
+
+Constiinta este capacitatea de a construi si opera unul sau mai multe modele ZM, 
+asociate sau nu realitatii externe, in care propria persoana apare ca element. Si 
+asupra acestei probleme vom mai reveni.
+
+Cunoasterea este deci capacitatea de a prezice corect evolutia realitatii externe, 
+pe baza unei structuri de modele armonice/logice. 
+
+Aici avem o problema asociata definitiei termenului "corect". In citeva locuri 
+este precizat ca a prezice "corect" inseamna sa existe o diferenta acceptabil de 
+mica intre predictie si IR. Asta este una dintre posibilele definitii ale 
+cuvintului "corect". Mai exista' insa o definitie care este strins legata de 
+termenul "cunoastere".
+
+Teoria MDT este asociata functiilor de baza de hardware. Odata ce descriem 
+structura de hardware, tot ce teoria sustine se bazeaza pe functiile disponibile 
+de hardware. In acest fel, ceea ce sustine MDT despre cunoastere nu este o alta 
+teorie asociata subiectului ci este asociata cu ceea ce structura de hardware 
+poate sa faca.
+
+Astfel, orice experienta presupune un model preexistent care va face acea 
+experienta. Modelul care organizeaza experimentul ne va spune si ce facem si ce am 
+obtinut. Tot ce putem face prin experienta este de a imbunatati structura de 
+modele deja existente. Modelele perfectionate prin experienta vor face predictii 
+mai bune.
+
+In acest fel este posibila unificarea celor doua intelesuri date mai sus 
+termenului "corect". Astfel, in prima acceptiune, daca prin compararea predictiei 
+unui model cu IR rezulta ca predictia este asemanatoare cu IR, atunci spunem ca 
+predictia este corecta. In a doua acceptiune se spune ca orice predictie a unei 
+structuri de modele este corecta prin definitie deoarece o structura de modele a 
+trecut deja un foarte mare numar de teste si deci putem avea incredere in aceste 
+predictii.
+
+Deci, daca facem o predictie, aceasta este "corecta" prin definitie. Indiferent 
+daca predictia se confirma sau nu, structura de modele de dupa experienta  va fi 
+mai buna. In aceasta situatie, chiar daca vom avea o alta colectie de predictii, 
+acestea vor fi din nou "corecte". Predictiile pot fi incorecte cel mult un timp 
+scurt dupa compararea predictiei cu IR. De indata ce s-a facut compararea, 
+modelele se vor modifica pentru a fi din nou "corecte". Teoria deceleaza deci doua 
+acceptiuni pentru termenul "corect" si sugereaza o posibla unificare a lor fara a 
+sustine neaparat aceasta unificare de sensuri.
+
+Singura cunoastere admisa de MDT este deci cunoasterea bazata pe predictia unei 
+structuri de modele adecvate realitatii externe date. Odata ce avem o structura de 
+modele asociate unei realitati externe, este posibil sa facem predictii de 
+evolutie a acelei realitati externe, pe baza modelelor existente. 
+
+Singura garantie de corectitudine a predictiei este calitatea acelei structuri de 
+a fi armonica/logica. Pentru a fi armonica/logica, structura a trecut un foarte 
+mare numar de verificari interne si in interactie cu realitatea externa si asta 
+este tot. Nu exista' nici un fel de alta garantie de corectitudine asociata 
+cunoasterii.
+
+Sa mai aducem citeva precizari asociate conoasterii. Astfel, am aratat ca un 
+experiment care sa verifice sau sa infirme o afirmatie, se poate desfasura numai 
+in cadrul unui model. Modelul ne spune atit ceea ce facem cit si ceea ce vedem. 
+Este de observat ca experimentul, fiind bazat pe un model, va perfectiona acest 
+model. Daca la acel experiment mai participa si alte persoane, rezultatul 
+experimentului va fi interpretat de fiecare persoana pe baza propriilor modele. 
+Asta reconfirma ceea ce s-a spus deja si anume ca in fata aceleasi realitati 
+externe, fiecare persoana construieste propria realitate.
+
+Se accentueaza din nou ca aceste consideratii sunt generate de modelul de hardware 
+al creierului. MDT nu este o teorie a cunoasterii ci o teorie a structurii de 
+hardware. Ceea ce teoria prezice in legatura cu cunoasterea sunt consecinte logice 
+ale functionarii structurii de hardware a creierului.  
+
+Exemplu: in urma cu citeva sute de ani, toata lumea stia ca Pamintul este centrul 
+Universului. Acest lucru era sustinut de o robusta structura de modele si era 
+confirmat zilnic prin interactia directa cu realitatea externa. In plus, in 
+Biblie, cel putin intr-o forma implicita, apare ca Pamintul este centrul 
+Universului. In acea perioada deci, idea ca Pamintul este centrul Universulul era 
+corecta.
+ 
+In orice moment deci, creierul va considera "corecte" toate predictiile pe care le 
+face structura de modele, chiar daca structura este modificata in urma 
+experientei.
+
+Acest mod de a vedea lucrurile ar putea fi considerat inacceptabil de catre 
+epistemologi, de exemplu, dar asta este ceea ce rezulta din analiza functiilor de 
+hardware ale creierului. Indiferent daca ne place sau nu, creierul nu poate face 
+decit ceea ce este posibil tehnic, pe baza principiului sau de functionare.
+
+Termenul "gresit" poate sa puna ceva probleme. Daca, de exemplu, un model face 
+predictii gresite asta nu inseamna, de obicei, ca modelul are probleme de 
+constructie. Un model care face predictii gresite poate fi un model perfect 
+armonic sau logic. Termenul "gresit" asociat cu un model se refera doar la faptul 
+ca acel model nu este adecvat acelei realitati externe. Totusi acel model ar putea 
+fi adecvat altei realitati externe.
+
+Exemplu: Modelul lui Newton este gresit in reflectarea comportamentului  
+obiectelor care se misca cu viteze comparabile cu viteza luminii (face predictii 
+gresite) desi el este corect (adecvat) reflectarii lumii mecanice la viteze foarte 
+mici in comparatie cu viteza luminii.
+
+Termenii "corect/gresit" trebuie deci totdeauna sa fie raportati la un model sau 
+la o structura de modele.
+
+Prima facilitate fundamentala a creierului este deci de a genera cunoasterea si 
+constiinta, asa cum ele au fost deja definite.
+
+Vom continua acum cu a doua facilitate fundamentala a oricarui creier si anume, 
+actiunea asupra realitatii externe. Astfel, in baza modelelor deja existente, un 
+model de tip ZM poate sa construiasca un  model ZAM, artificial si invariant.
+Un model artificial este un model care nu a aparut prin interactie directa cu 
+realitatea externa, asa cum se intimpla' cu modelele M, YM si ZM. Model invariant 
+inseamna un model care nu poate fi modificat prin interactie cu realitatea 
+externa.
+Acest model ZAM, cu bataie lunga, este model de referinta in modificarea 
+realitatii externe. Pentru ca realitatea externa (reflectata de modelele M-ZM) sa 
+fie asemanatoare cu modelul ZAM, acest model ZAM va construi/activa o colectie de 
+modele AZM care pot actiona asupra realitatii externe. Procesul se incheie atunci 
+cind modelele M-ZM transmit o informatie compatibila cu modelul invariant ZAM.
+
+Modelele AZM pot activa organele care pot actiona asupra realitatii externe. 
+Astfel realitatea externa este modificata de modelele ZAM, prin actiunea modelelor 
+AZM, pentru a indeplini specificatiile generate de modelul invariant ZAM.
+
+Modelele AZM sunt  modele de actiune directa asupra realitatii externe si ele sunt  
+asociate in general miinilor, picioarelor, gurii (pentru a minca sau a vorbi), 
+etc. Ele pot de asemenea sa fie create, pentru aplicatii specifice de orice model 
+ZAM sau ZM.
+
+Vom descrie acum modul de implementare a acestei facilitati. Astfel, de indata ce 
+un model ZAM a fost construit sau activat de un model ZM, acest model ZAM va 
+simula actiunea care trebuie facuta. In urma unui set de simulari, va rezulta daca 
+acea actiune se poate face sau nu. Daca se poate face, se va gasi, prin simulare, 
+solutia optima. Dupa ce simularea actiunii a reusit, modelul ZAM va folosi 
+modelele AZM pentru a actiona asupra realitatii externe. Modelele AZM vor actiona 
+exact asa cu au actionat in simulare. Daca prin simulare nu s-a reusit sa se 
+atinga obiectivul, creierul va fi blocat in executarea acelei actiuni.
+
+Exemplu: daca trebuie sa sarim peste un obstacol, modelul ZAM asociat actiunii, 
+folosind modele AZM, va simula acea saritura. Daca saritura simulata reuseste, 
+exact acea saritura se va face si in realitatea externa. Daca saritura simulata nu 
+reuseste, creierul va fi blocat sa actioneze. In acest fel se explica, de exemplu, 
+de ce in fata unui obstacol care trebuie sarit, noi stim extrem de repede daca 
+saritura se poate face sau nu. Daca raspunsul este "da" atunci se va face o 
+saritura identica cu ultima saritura simulata reusita, cu foarte mari sanse de 
+succes. Daca raspunsul este "nu" atunci, neexistind model, creierul este blocat sa 
+execute acea actiune.
+
+Nici o actiune a creierului nu se poate face, deci, decit daca acea actiune a 
+putut fi executata prin simulare, cu succes. Actiunea va fi exact ca aceea care a 
+avut succes la simulare. Acest mod de interactie cu realitatea externa este urmat 
+in absolut orice actiune, indiferent daca ea se refera la actiunea imediata asupra 
+realitatii externe sau la o actiune care este planificata in viitor.
+
+Mai este de adaugat ceva in legatura cu frecventa si viteza de executie. Astfel, 
+cind mergem pe un teren absolut plan, creierul va continua sa simuleze fiecare pas 
+in parte inainte ca pasul sa fie executat in realitatea externa. In fapt, chiar in 
+aceasta situatie extrem de simpla, din cauza imperfectiunilor fiecarui pas si din 
+cauza schimbarii centrului de greutate a persoanei si in functie de diverse cauze 
+interne sau externe si in functie de orice alte cauze, fiecare pas va fi un unicat 
+adica, pentru fiecare pas in parte se va face cel putin un model ZAM. 
+
+Daca mergem pe un teren accidentat, nu numai ca fiecare pas va fi un unicat, dar, 
+chiar in timp ce un pas este executat, pot sa apara schimbari in functie de 
+situatia concreta din fiecare moment. De exemplu, daca un pas este in executie si 
+daca apare un factor perturbator (piciorul aluneca usor la start, de exemplu, sau 
+simularea a avut erori, etc.), modelul ZAM se va reactualiza, va simula noua 
+situatie, va gasi solutia optima si va reactiva alt set de functii. 
+
+Rezultatul este ca o activitate extrem de complicata, cum este mersul pe teren 
+accidentat, se face extrem de sigur si chiar elegant, datorita simularii repetate 
+pe model a fiecarui pas, chiar in timpul desfasurarii acelui pas. Problema este 
+reluata pe larg in sectiunea de aplicatii.
+
+Asa cum am spus, acest procedeu de simulare continua in avans a oricarei 
+activitati, este folosit in orice activitate a creierului (animal sau uman), nu 
+numai in actiunea asupra realitatii externe. In plus, metoda este folosita atit in 
+actiunea imediata asupra realitatii externe cit si in orice actiune care se va 
+desfasura in viitor.
+
+Sa trecem in revista tipurile de modele care au fost deja descrise.
+
+M: modele asociate simturilor.
+
+YM: modele, in general de tip concept, asociate tuturor elementelor realitatii 
+externe care deja au fost descoperite de un creier dat. Ele sunt  folosite de 
+toate modelele creierului pentru diverse scopuri. Modelele M, de exemplu, folosesc 
+modelele YM pentru a face un model imagine preliminar asociat unei realitati 
+externe date.
+
+ZM: modele cu bataie lunga asociate activitatilor generale ale creierului. Ele 
+genereaza, printre altele, cunoasterea si constiinta. De asemenea ele construiesc 
+toate celelalte tipuri de modele (exceptind modelele M si unele modele AZM care 
+sunt  asociate implementarii de hardware). Totusi, desi modelele M si AZM sunt  
+gata construite la nastere, ele sunt  perfectionate si dezvoltate de modelele ZM.
+
+ZAM: modele artificiale si invariante, construite de modelele ZM, folosite pentru 
+a modifica realitatea externa. Un model "artificial" este un model care nu a 
+aparut prin interactie directa cu realitatea externa. Un model "invariant" este un 
+model care nu poate fi modificat prin interactie directa cu realitatea externa.
+
+AZM: modele asociate organelor care pot actiona asupra realitatii externe. Ele 
+sunt  gata construite la nastere dar sunt  perfectionate si dezvoltate de modelele 
+ZM si ZAM. De asemenea, oricit de multe modele AZM pot fi create in orice moment 
+de modelele ZM si ZAM.
+
+Este important de specificat ca aceste modele sunt  asociate principalelor functii 
+de hardware. Vom vedea la descrierea implementarii tehnologice a creierului si 
+alte tipuri de modele care apar la implementarea software a diverselor tipuri 
+tehnologice de creiere.
+
+
+PROBLEME DE PRINCIPIU
+
+Vom continua cu probleme de principiu asociate cu acest mod de functionare al 
+creierului (animal sau uman).
+
+La activare, un model M nu are de unde sa stie cite elemente se afla in realitatea 
+externa. Chiar mai mult, modelele M nu au de unde sa stie care sunt elementele 
+acelei realitati externe. Dispozitivul de modelare va incerca sa descopere cit mai 
+multe dar nu exista nici o garantie si nici o referinta absoluta pentru a sti daca 
+am descoperit toate elementele si toate relatiile si daca am atribuit bine 
+elementelor descoperite, modelele YM adecvate.
+
+Aceasta deficienta de principiu este speculata de oameni si animale prin camuflaj 
+si disimulare. In acelasi timp, nu exista' nici o interdictie ca sa nu descoperim 
+toate elementele si relatiile.
+
+Sa vedem procesul ceva mai in detaliu. Orice model are tendinta de a fi armonic cu 
+el insusi deci de a fi stabil. Asta inseamna ca, dupa orice modificare, modelul 
+trebuie sa evolueze singur pentru ca orice simulare pe acel model sa reconfirme 
+toate datele acelui model (asta inseamna ca modelul este stabil).
+
+Daca, in urma unei simulari, modelul are o dizarmonie, modelul trebuie sa se 
+corecteze singur, bazat sau nu pe IR, pentru a elimina acesta dizarmonie.
+
+Asa cum am spus, un model are tendinta de a fi armonic cu el insusi. Faptul ca un 
+model este armonic nu inseamna, numai datorita acestui lucru, ca modelul reflecta 
+corect realitatea externa asociata.	Un model armonic inseamna doar ca, in baza 
+tuturor informatiilor obtinute din realitatea externa, nu se detecteaza o 
+dizarmonie in constructia acelui model, nimic mai mult. 
+
+Un model armonic este un model stabil. Asta inseamna ca orice simulare pe un model 
+dat va reconfirma modelul in aceasi forma.
+
+Aceasta este una dintre multele deficiente de proiectare ale creierului. 
+Realitatea a fost definita ca totalitatea informatiilor care sunt sau ar putea fi 
+generate de un model dat. Garantia realitatii este armonia modelului iar armonia 
+nu este o garantie ca realitatea externa este reflectata corect de model, oriunde 
+si oricind. Armonia este doar o garantie ca toate informatiile disponibile au fost 
+corelate astfel ca, orice informatie confirma orice alta informatie generata de 
+model si asta e tot.
+
+Proiectantul a atenuat aceasta deficienta de proiectare prin existenta multor 
+modele integrate intr-o structura complexa, in mod armonic. Orice model nou va fi 
+acceptat in structura de modele daca se poate integra in mod armonic. Intreaga 
+structura de modele trebuie sa fie armonica pentru a fi stabila. Asta inseamna, de 
+exemplu, ca orice adevar generat de un model trebuie sa fie acceptat in mod 
+armonic de orice alt model al creierului. De fapt, asta este conditia de hardware 
+ca un model nou sa fie integrat in structura de modele existente.
+
+Exista insa si probleme date de aceasta structura. Astfel, daca un model nou are 
+probleme de integrare, de obicei modelul cel nou ar trebui sa fie modificat pentru 
+a fi compatibil cu structura de modele. Din  nefericire, atunci cind noul model 
+este cel "corect" si structura de modele este "gresita", creierul are  mari 
+dificultati de restabilire a armoniei.
+
+Exemplu: problema pe care a avut-o Copernic in incercarea de a impune conceptia 
+heliocentrica. Aproape toti contemporanii lui aveau o structura armonica de modele 
+bazate pe ideea ca Pamintul este centrul Universului. Acea structura de modele 
+desi era "gresita", facea predictii corecte asupra miscarilor majoritatii absolue 
+a corpurilor ceresti (prevedea precis aparitia eclipselor, de exemplu). Imensa 
+rezistenta la impunerea conceptiei heliocentrice este explicata deci foarte usor 
+de MDT.
+
+Aici vom face o observatie generala care va fi tratata ceva mai in detaliu intr-o 
+aplicatie. Este vorba de faptul ca, datorita modului anormal de aparitie a limbii 
+de comunicatie generala (GCL), definitiile celor mai multe cuvinte asociate 
+functionarii creierului sunt  imprecise  sau ambigue. Una din deciziile 
+fundamentale facute de mine in constructia acestei teorii este de a nu inventa, pe 
+cit posibil, cuvinte noi. Din cauza asta, o serie de cuvinte existente au trebuit 
+sa fie redefinite in conditiile in care cuvintele aveau deja una sau mai multe 
+definitii descriptive, date de dezvoltarea spontana a limbii, in decursul 
+timpului. Teoria are un capitol despre definitii, in sectiunea de aplicatii.
+ 
+Orice modificare intr-un model inseamna', practic, refacerea de la zero a 
+modelului. Un model "gresit" (adica neadecvat unei realitati externe date) se 
+poate corecta doar prin reconstructie totala, de la zero.
+
+Un model odata integrat in structura de modele, este imposibil de a fi sters si 
+aproape imposibil de modificat. Din aceasta cauza, modelele ZM sunt in general 
+modele concept (foarte generale) care sunt  particularizate, in mod dinamic, la 
+realitatea  externa concreta, prin actiunea modelelor M.
+
+Exemplu: un posibil model ZM este modelul propriei noastre case. De cite ori ne 
+intoarcem acasa, este posibil sa vedem ceva mici schimbari in casa, facute de alti 
+membrii ai familiei. Acest lucru nu schimba modelul ZM-general dar duce la 
+constructia sau reconstructia de alte modele locale, asociate micilor schimbari.
+
+In functionarea curenta a creierului, un model ZM are acces simultan la toate 
+modelele M (asociate simturilor) astfel ca el poate sa genereze o realitate extrem 
+de complexa prin corelarea diverselor informatii date de diverse modele M. In 
+acelasi timp, pot exista mai multe modele ZM care au, fiecare in parte, acces la 
+toate modelele M. Totusi, in interactia complexa cu realitatea externa, va exista 
+un singur model ZM care are controlul intregii fiinte externe la un moment dat. 
+Acest model este numit de obicei model ZM-local sau ZM-activ.
+
+In functie de evolutia realitatii externe, modelele ZM se pot comuta, pentru a 
+face, secvential, mai multe feluri de activitati in acelasi timp. Totusi, 
+comutarea de la un model la altul se face in general cu greutate si cu riscuri de 
+erori. Motivul principal este ca la dezactivarea unui model trebuie sa retinem 
+informatia care ne va folosi la reactivarea lui. O parte a informatiei ar putea sa 
+se piarda iar, pe de alta parte, intre timp, realitatea externa ar putea sa se 
+modifice astfel ca modelul trebuie sa-si gaseasca singur noile conditii de 
+reactivare. 
+
+Modelul ZM-local va fi in orice situatie acel model care face cele mai bune 
+predictii de evolutie a realitatii externe actuale. Dificultatile legate de 
+comutarea de la un model la altul va face, totusi, relativ dificila desfasurarea 
+de mai multe activitati simultan.
+
+La aceasta sectiune despre probleme de principiu vom reveni la termenul 
+"cunoastere". Nu exista garantie ca o structura de modele care este "corecta" 
+(dupa definitia deja data), va continua sa fie corecta oricind si oriunde in acea 
+realitate externa.
+
+A cunoaste ceva inseamna ca, in baza predictiilor intregii structuri de modele, 
+rezulta unul sau mai multe comportamente evolutive  probabile ale realitatii 
+externe si asta e tot. Cunoasterea este asociata cu structura de modele 
+disponibile si nu, in mod direct, cu realitatea externa, asa cum ne-ar place.
+	
+Este de asemenea fundamental de observat ca, fara a declara structura de modele, 
+"cunoasterea" este un nonsens. In paranteza fie spus, aceasta este o conditie 
+foarte rar indeplinita in viata de zi cu zi, inclusiv in domeniile stiintelor care 
+nu sunt  stiinte exacte. In domeniul stiintelor exacte, bazate deci pe un singur 
+model simbolic, conditia este indeplinita totdeauna.
+
+
+EXEMPLIFICAREA DETALIATA A CONSTRUCTIEI DE MODELE M-YM-ZM
+	
+In fata unei realitati externe date, creierul construieste o structura de modele, 
+unele asociate direct cu realitaea externa, altele luate din structura de modele 
+existente.
+
+Vom exemplifica aceasta functie pe o situatie concreta: cum se construieste un 
+model imagine nou, asociat unei realitati externe de tip fotografic (asa cum este 
+ea generata de ochi). Functia este exemplificata pentru un creier normal, matur.
+
+Notiunea de "creier normal" va fi analizata mai tirziu. Aici prin creier normal se 
+intelege un creier care executa corect functiile fundamentale, asa cum ele au fost 
+deja descrise.
+
+Un creier "matur" este un creier care are o colectie bogata de modele de tip YM si 
+ZM, obtinute prin interactie cu realitatea externa un timp suficient de lung. Avem 
+deci un creier la care fiecare model este armonic construit (este stabil) si 
+structura de modele este  armonica (deci stabila).
+
+O imagine este o informatie care este receptionata asa cum este, in acelasi mod in 
+care ea este generata de o camera de televiziune, de exemplu. O astfel de 
+informatie bruta si total lipsita de orice semnificatie, trebuie sa fie integrata 
+de creier sub forma unui model imagine.
+
+Procesul de prelucrare incepe cu incercarea de a gasi elementele acestei imagini.
+
+Observatie: Se foloseste uneori in aceasta teorie termenul impropriu de element al 
+realitatii externe. Ceva este element numai daca se afla inclus intr-un model. 
+Pentru realitatea externa ar putea fi folosit termenul de entitate a realitatii 
+externe care, odata decelata, ar deveni element al modelului asociat. Totusi, 
+pentru a nu complica expunerea, se va folosi uneori si termenul de "element al 
+realitatii externe" chiar daca el trebuie inteles asa cum este explicat aici.
+
+In cazul unei imagini de tip fotografic, creierul are ca prim obiectiv constructia 
+unui model imagine tridimensional, care sa reflecte realitatea externa. Se 
+foloseste aici faptul ca are la dispozitie doua imagini plane, date de cei doi 
+ochi, cu care se va construi un model de tip M, tridimensional (o imagine stereo). 
+Acest model M preliminar va da un prim set de informatii in legatura cu posibilele 
+elemente ale imaginii. Se mai folosesc orice alte informatii  suplimentare cum ar 
+fi culoarea, contrastul de culoare, de luminozitate sau de forma precum si 
+miscarea unor entitati.
+
+In orice caz, primul scop este de a gasi posibilele entitati care vor deveni 
+elemente ale modelului imagine M. Odata ce o entitate este decelata si evaluata 
+(ca forma, dimensiune, pozitie in spatiu, etc.) creierul va cauta sa atribuie 
+preliminar acestei entitati, un model imagine YM. In acel moment acea entitate va 
+fi asociata cu un YM si va fi tratata ca element al modelului M. 
+
+De exemplu, daca se descopera un element rotund, creierul va incerca sa vada daca 
+este o minge (model YM-minge) sau un mar (model YM-mar), sau orice altceva, in 
+conformitate cu setul sa'u de modele concept YM.
+
+Odata ce un element a fost identificat preliminar, el este "scris" in modelul 
+imagine M si se incearca identificarea altui element. Din motive de eficienta, 
+este foarte probabil ca urmatorul element va fi unul care are deja o relatie cu 
+primul element identificat. De indata ce avem doua elemente, se pot face predictii 
+asupra relatiilor posibile intre ele. Astfel, elementul A trebuie sa se afle intr-
+o relatie cu B care trebuie sa fie compatibila cu relatia lui B cu A.
+
+De exemplu, marul sta' pe masa; masa va fi al doilea element identificat, in acest 
+exemplu posibil. Daca marul sta' pe masa atunci din proprietatile mesei trebuie sa 
+rezulte ca aceasta masa poate sa sustina un mar iar din proprietatile mediului a 
+mesei si a marului trebuie sa rezulte ca marul nu se va rostogoli de pe masa. 
+Daca, in alt exemplu, un mar-fruct se afla' pe o creanga foarte subtire, din 
+proprietatile prezise ale crengii nu rezulta ca ea ar putea sustine marul si deci 
+unul sau altul dintre elemente are proprietati neconforme cu modelele YM alese.
+
+Odata ce avem doua elemente, se poate vedea relatia intre ele si asta poate da 
+informatii suplimentare asupra identificarii corecte sau nu. 
+
+Algoritmul poate fi foarte variabil deoarece teoria nu spune nimic despre 
+implementarea functiei. Ca orice teorie fundamentala, MDT  nu este preocupata prea 
+mult de implementarea tehnologica a functiilor descrise. Indiferent de algoritm, 
+teoria ramine valabila.
+
+Pina la urma, creierul trebuie sa identifice cit mai multe elemente si cit mai 
+multe relatii intre aceste elemente, in cadrul unui model preliminar.
+
+Asa cum am aratat la descrierea functiei de baza, procesul de constructie si 
+verificare fac parte din acelasi proces. Chiar dupa ce,  aparent, modelul este 
+stabilizat (toate simularile arata' ca modelul este armonic si de asemenea este 
+sustinut de celelalte modele), procesul de reactualizare va continua la nesfirsit 
+atit timp cit acel tip de realitate externa va continua sa existe in fata ochilor.
+
+Ceea ce se obtine in urma interactiei creierului cu o imagine de tip fotografic 
+este un model imagine preliminar M, unde fiecare element este asociat cu un model 
+concept YM. Intrucit fiecare model YM asociat fiecarui element face o serie de 
+predictii, aceste predictii trebuie sa fie compatibile cu absolut toate 
+predictiile tuturor celorlalte modele YM. In acest fel, modelul imagine principal 
+de tip M, asociat cu imaginea fotografica, trebuie sa fie armonic deci stabil. 
+Ceea ce se vede este deci ceea ce contine acest model. Asta este realitatea 
+preliminara asociata acelei imagini din realitatea externa.
+
+In continuare, dar nu secvential ci practic simultan, un model de tip ZM preia 
+informatiile generate de M si face predictii cu bataie lunga in timp ce modelul M 
+continua sa fie cuplat la realitatea externa. Aceste procese, desi aici au fost 
+prezentate secvential, se desfasoara quasi-simultan astfel ca modelul ZM poate 
+corecta modelul M (un model YM atribuit de M poate fi schimbat cu altul prin 
+actiunea lui ZM) asa cum M corecteaza modelul ZM. In plus, la acelasi model M i se 
+pot asocia mai multe modele ZM, fiecare cu interesul sau.
+
+De asemenea, in mod normal, exista' mai multe modele M active, asociate vazului, 
+auzului, mirosului etc. Un model ZM dat poate corela informatiile care vin de la 
+mai multe modele de tip M. Procesele acestea sunt  atit de strins legate intre ele 
+incit pot fi numite procese M-(YM)-ZM in care toate modelele M sunt  in permanent 
+schimb de informatii cu mai multe modele ZM.
+ 
+In fata aceleasi realitati externe, fiecare creier construieste propriile lui 
+modele imagine M-ZM, deci propria sa realitate. Pentru fiecare in parte, 
+realitatea este construita in baza unor modele imagine care au trecut toate 
+testele de armonie posibile. Asa cum am mai aratat, de aici nu rezulta obligatoriu 
+ca realitatea reflecta in mod corect realitatea externa.
+
+Exemplul 1: in fata aceleasi realitati externe, fiecare creier va construi propria 
+lui realitate. Daca un pictor si un inginer silvic privesc un copac, fiecare va 
+construi alte modele M-ZM (alta realitate) asociata aceleiasi sectiuni din 
+realitatea externa. Pentru fiecare, realitatea este  "corecta" si fiecare va 
+actiona in baza propriei lui realitati.
+
+Exemplul 2: Atunci cind urmarim strada dintr-o masina in mers, modelul M asociat 
+ochilor va construi modelul tridimensional al realitatii externe. Modelul ZM activ 
+preia informatiile transmise de diversele modele M precum si informatii de la alte 
+modele ZM si se auto-perfectioneaza in mod dinamic, pentru a face predictii tot 
+mai bune asupra posibilei evolutii a realitatii externe. Aceste informatii pot fi 
+preluate de alte modele ZM pentru a avea o si mai buna cunoastere a acelei 
+realitati externe.
+
+Daca, de exemplu, cautam o anumita casa despre care exista doar date incomplete, 
+un model de tip ZM va avea aceste date despre casa cautata. Modelul ZM activ  va 
+prelucra portiuni din modelul M pentru a  identifica acel element. In acest fel, 
+din cind in cind si pe sectiuni ale realitatii externe reflectate de M-ZM-local, 
+vom "vedea" mai mult decit ne transmit modelele M-ZM-local.
+
+Oarecum corelat cu exemplul de mai sus, se poate spune ceva si despre 
+suprasolicitarea creierului. De exemplu, conducem o masina cu viteza foarte mare. 
+Desi modelele M-ochi transmit cam aceeasi informatie indiferent de viteza de 
+deplasare, modelele ZM care contribuie la conducerea efectiva a masinii vor fi 
+fortate sa prelucreze portiuni din ce in ce mai mici din modelele M, din cauza 
+capacitatii limitate de prelucrare a informatiei. Acest fenomen este cunoscut sub 
+numele de "ingustarea cimpului constiintei" si el apare ori de cite ori creierul 
+este suprasolicitat.
+
+Tot ce s-a prezentat pina acum este principial identic la oameni si la animale. 
+Vom vedea mai jos diferenta fundamentala dintre creierul uman si cel animal.
+	
+
+CREIERUL UMAN (introducere)
+
+Diferenta fundamentala dintre creierul animal si cel uman este capacitatea pe care 
+o are numai creierul uman de a construi si opera modele simbolice, in cadrul 
+general deja descris. Evident, aceasta facilitate noua este un adaos la 
+capacitatea de a construi si opera  modele imagine. Acest adaos marcheaza granita 
+dintre ce ne aseamana si ce ne deosebeste de animale. Animalele nu pot, nici macar 
+in forme primitive, sa construiasca modele simbolice. Vom reveni la aceasta  
+problema.
+
+La modul de interactie dintre o imagine si creierul animal sau uman am vazut 
+procedura prin care o imagine este reflectata de un model imagine. In cazul 
+modelelor simbolice, procesul este total diferit. La nivelul modelelor M nu 
+exista' totusi diferente de principiu. Evident ca va exista o colectie aditionala 
+de modele YM, specifice formelor literelor si cifrelor, in cazul textelor scrise 
+de exemplu. La nivelul integrarii elementelor in modele de tip ZM, diferentele 
+sunt  fundamentale. Astfel, creierul omului are modele ZM asociate atit auzului 
+cit si vazului, care pot sa identifice cuvinte rostite sau scrise, in baza unor 
+modele YM si ZM specializate.
+
+Acest modele simbolice fundamentale, care integreaza deja toate elementele 
+simbolice, sunt  incluse in limba de comunicatie generala (GCL). Exista' o limba 
+vorbita si o limba scrisa, in doua modele MZM asociate intre ele. Totusi, pentru a 
+nu complica acest text, vom folosi termenul GCL (General Communication  Language) 
+atit pentru limba vorbita cit si pentru limba scrisa. Aceasta afirmatie este 
+corecta numai pentru zonele culturale care folosesc alfabete (vom reveni la 
+aceasta problema in cadrul unei aplicatii specifice).
+
+In fata unui text, de exemplu, noi avem deja toate elementele explicitate sub 
+forma de cuvinte si avem GCL care le integreaza in mod logic. 
+
+Un mesaj este deci integrat de creier sub forma unui model simbolic. De data asta 
+stabilitatea se verifica prin logica. Un model trebuie sa fie logic pentru a fi 
+stabil (inteles).
+
+Exemplu: Propozitia "marul cade din pom". Avem elementul simbolic "mar" si 
+elementul simbolic "pom". Relatia intre aceste elemente este data de  verbul 
+"cade". Intrucit pe model imagine avem deja modelul unui mar care cade din pom, 
+acest model simbolic ["mar", "cade", "pom"]  este dublat de un model imagine. In 
+acest fel, logica a aparut in actiunea de translatare a modelelor imagine in 
+modele simbolice. Odata ce un model imagine este stabil in baza legilor armoniei, 
+modelul simbolic asociat va fi stabil in baza legilor logicii. Aici, asa cum se 
+vede, avem o definitie implicita a logicii. Nu stiu daca se poate explica/defini 
+logica si in alt fel. 
+
+Se reaminteste ca stabilitatea unui model inseamna ca, oricare ar fi simularile 
+facute pe model, absolut toate trebuie obligatoriu sa reconfirme absolut toate 
+datele despre model.
+
+In sectiunea care urmeaza voi prezenta in detaliu diferentele intre creierul 
+animal si uman, in baza unei ipotetice evolutii de la creierul animal la cel uman.
+
+
+CREIERUL UMAN FATA DE CREIERUL ANIMAL
+
+Desi procesul de interactie intre un creier si realitatea externa are loc pe baza 
+a doua functii independente (ale modelelor M si ale modelelor ZM), peste tot se va 
+vorbi despre acest proces ca si cind ar fi un singur proces. Asta este asa si 
+pentru a nu complica descrierea dar si pentru ca aceste doua procese (M-ZM) sunt  
+strins corelate.
+
+Pentru orice fel de realitate externa, creierul va face un model imagine. Aceasta 
+functie este in principiu identica la oameni si la animale.
+
+In realitatea externa se pot intilni foarte multe elemente asemanatoare.
+
+De exemplu, un ciine ar trebui sa construiasca multe modele YM ale altor  ciini cu 
+care trebuie sa interactioneze.
+
+Aceste multe modele asemanatoare incarca creierul cu o cantitate imensa de 
+informatie inutila (un model YM pentru fiecare ciine intilnit, in acest exemplu).
+
+Primul nivel de evolutie al creierului este constructia de modele concept. Un 
+model concept este un model simplificat. El se potriveste, in mod aproximativ, la 
+foarte multe elemente asemanatoare. In loc sa se construiasca  un model imagine 
+pentru fiecare element asemanator intilnit, se va construi un singur model 
+concept, urmind ca fiecarui element particular sa-i fie atasate (in M-ZM) 
+informatii  particulare de identificare/particularizare.
+
+Observatie: aparitia modelelor concept nu inseamna' ca modelele imagine pure nu 
+mai sunt  utilizate. Modelele imagine pure sunt  cele care sunt  asociate numai cu 
+o singura entitate din realitatea externa si ele se construiesc pentru situatii 
+speciale. De exemplu, un pui de ciine ar putea sa aiba un model pur imagine al 
+mamei lui.
+
+Modelele concept cresc viteza de operare a modelelor M (din cauza modelelor YM 
+simplificate) si reduc foarte mult efortul unui creier de a intelege realitatea 
+externa (scade drastic cantitatea de informatie care trebuie prelucrata). Acesta 
+este nivelul 1 de evolutie, atins, probabil, de toate animalele.
+
+Urmatorul nivel al evolutiei este constructia de "etichete" care sa activeze 
+direct un model ZM, folosind informatii foarte simplificate date de modelele M. 
+Acesta este nivelul 2. Pentru animale, aceste etichete sunt de obicei modele 
+imagine de tip sonor sau olfactiv (termenul "imagine" este asociat peste tot in 
+aceasta teorie, cu orice fel de informatie de tip analogic inclusiv sunete sau 
+mirosuri).
+
+Astfel, atunci cind un model M contine o informatie de tip eticheta, un model ZM 
+se activeaza fara a astepta ca modelul M sa construiasca un model preliminar 
+complet. Modelul ZM care se activeaza poate sau nu sa fie legat de modelul ZM-
+local, asociat lui M.
+
+Exemplu: multe animale lasa anumite substante cu mirosuri specifice in diverse 
+locuri. Alt animal poate simti acest miros si va activa un model ZM asociat (daca 
+acest model exista'). Acest model ZM nu este asociat direct cu modelele M-ZM 
+active in acel moment.
+ 
+Astfel, etichetele permit aparitia unei forme primitive de comunicatie, bazata pe 
+modele imagine. Comunicatia bazata pe modele imagine se intilneste si la oameni. 
+Ea are importanta practica doar in situatii foarte bine definite. De foarte multe 
+ori acest fel de comunicatie primitiva, bazata pe modele imagine, este imprecisa 
+sau ambigua.
+
+Aici este de observat un detaliu foarte important. O eticheta, asa cum a fost deja 
+descrisa, este de obicei, la rindul ei, un model. Perceperea unui miros sau a unui 
+sunet se face prin constructia unui model imagine de tip M. Acest model M va cauta 
+un model YM compatibil (asemanator) cu el, care va fi astfel activat. De cite ori 
+o informatie venita din exterior va genera activarea unui model de tip eticheta, 
+acesta, la rindul lui, va activa unul sau mai multe modele specifice de tip ZM, cu 
+bataie lunga. Modelele ZM astfel activate ii vor permite acelui animal sa 
+inteleaga realitatea externa inainte ca modelele normale M-ZM-local sa inteleaga 
+ce se intimpla'.
+
+Acesta este cel mai inalt nivel atins de animale.
+
+Evolutia catre eficientizarea activitatii creierului continua cu urmatorul nivel 
+atins numai de oameni.
+
+Am aratat ca, in cazul animalelor, o anumita informatie (de tip eticheta) poate sa 
+activeze un anumit model ZM, indiferent de modelul ZM local. Urmatorul pas catre 
+eficientizare, atins numai de oameni, este ca o anumita eticheta nu va mai activa 
+modelul ZM asociat ci numai un numar limitat de adevaruri ale lui.
+
+Aici este un punct critic. El trebuie tratat cu grija deoarece aici ne aflam la 
+bariera trecuta de oameni si pe care nici un animal nu a putut vreodata s-o 
+treaca.
+
+Deci, exista' un model ZM si o "eticheta" asociata lui. Problema este de a asocia 
+eticheta la o cantitate minima de informatie din modelul imagine asociat. Aceasta 
+cantitate minima de informatie poate fi obtinuta sub forma unor adevaruri generate 
+de acel model imagine. Intrucit un model imagine genereaza adevaruri imagine, 
+problema este de a avea o functie total noua', care sa utilizeze o informatie data 
+de un model imagine sub un alt mod de inregistrare.
+
+Teoria nu poate in nici un fel preciza cum este implementata aceasta functie care 
+nici macar nu poate fi definita complet. Totusi, un model fundamental, cum este 
+acesta, nu se preocupa prea mult de implementarea tehnologica a functiei.
+
+Teoria spune ca "eticheta" va fi asociata numai cu o colectie de adevaruri si nu 
+cu tot modelul. In acest fel, "etichetele" care sunt  asociate cu o colectie de 
+adevaruri, vor deveni elementele unui nou tip de model si anume modelul simbolic. 
+Etichetele vor deveni cuvinte si vor fi asociate cu o colectie de adevaruri ale 
+modelului imagine asociat. Aceste adevaruri vor constitui definitia simbolica a 
+cuvintului.
+
+Asa cum am aratat, aici este un punct critic. Adevarurile generate de un model 
+imagine sunt  adevaruri imagine. De exemplu, un animal simte un miros. Mirosul 
+poate fi asociat de acel animal cu hrana sau cu pericolul. Mirosul va activa deci 
+un model ZM asociat lui. Este usor, pentru noi oamenii sa intelegem asta dar 
+pentru un animal acel miros specific (acel adevar imagine) va activa alt model 
+imagine si asta e tot. 
+
+Pe model simbolic,  adevarurile imagine ar trebui inregistrate si generate intr-un 
+mod diferit. Aici se poate vedea deci o "distorsiune" a procesului evolutiv dar 
+accentuez ca aici incerc doar sa vad daca exista' sau nu o cale de a trece de la 
+modele imagine la modele simbolice. Teoria nu sustine si nu interzice trecerea de 
+la modele imagine la modele simbolice. In definitiv, daca aparitia modelelor 
+simbolice a rezultat sau nu prin evolutie este o problema exterioara teoriei. 
+Teoria arata' precis nivelele indiferent daca se poate trece sau nu de la un nivel 
+la altul prin evolutie sau prin alte procedee nespecificate. Problema este reluata 
+la capitolul urmator.
+
+Deci, pe nivelul 3, un element (cuvint) al unui model simbolic va avea atasat lui 
+atit modelul imagine cit si o definitie (o colectie de adevaruri simbolice 
+generate de model). Totusi, asa cum am mai accentuat, modul de inregistrare a 
+acestor adevaruri pe model simbolic este diferit de modul de inregistrare a lor  
+in cadrul modelului imagine.
+
+Functia fundamentala de operare cu modele imagine nu este pierduta dar nu mai este 
+absolut necesara (ea se poate activa doar daca este nevoie). Deci, la acest nivel 
+3 de evolutie, elementele simbolice (cuvintele) nu vor mai activa modele ci numai 
+anumite adevaruri ale modelului imagine cu care sunt  de asemenea atasate. Acest 
+nivel este nivelul minim pentru ca un creier sa fie considerat ca fiind creier de 
+om. Nici un animal nu a reusit sa atinga inca acest nivel.
+
+De exemplu, cind folosim cuvintul "ciine" este foarte probabil sa activam unul sau 
+chiar mai multe modele imagine. Totusi, nu mai este necesar ca aceste modele sa 
+fie activate asa cum se intimpla', de exemplu, in propozitia: "Merg la padure cu 
+pusca si cu ciinele". Desi am folosit 3 elemente care, fiecare in parte, are in 
+spate un model, noi nu am activat nici unul dintre ele. Fiecare element este 
+definit numai ca o colectie de proprietati ale modelului atasat, fara activarea 
+modelului.  
+Propozitia in asamblu are o semnificatie suficient de clara, bazata pe logica, 
+pentru ca, la acest nivel, sa nu fie nevoie sa activam nici un model imagine. 
+Modelele imagine asociate cuvintelor se vor activa numai atunci cind trebuie sa 
+facem un model de actiune exact, atit pe model imagine cit si pe model simbolic.
+
+Pe nivelul 3 de evolutie a aparut deci limba de comunicatie generala (GCL). 
+Prezenta acestui model simbolic intr-un creier va califica acel creier ca un 
+creier de om, conform cu MDT.
+
+Evolutia creierului uman a continuat cu nivelul 4 de evolutie si anume folosirea 
+unor cuvinte care nu mai au asociate nici un model imagine.
+
+Exemplu: se dau cuvintele: "acest mar", "mar", "fruct", "hrana". "Acest mar" este 
+asociat cu un model pur imagine, "mar" este asociat cu un model imagine de tip  
+concept, "fruct" si "hrana" sunt  elemente de tip simbolic. Ele nu mai sunt 
+asociate cu nici un fel de model imagine. Ele sunt  asociate doar cu un set de 
+definitii simbolice, folosind alte elemente simbolice (cuvinte).
+	
+Prin conceptualizare avansata, adevarurile asociate unei familii de modele imagine 
+pot sa piarda legatura cu modelele imagine particulare al acelei familii. Probabil 
+ca acesta a fost metoda de trecere de la nivelul 3 la nivelul 4 pe scara evolutiei 
+creierului.
+
+Nivelul 4 de evolutie a facut posibila constructia de modele simbolice complexe, 
+de tip concept, cunoscute si sub numele de limbaje  logico-matematice. Elementele 
+acestor modele simbolice nu mai pot fi puse in nici un fel in corespondenta cu 
+nici un fel de modele imagine. 
+
+Exemple: cuvintul "mar" are in general atasat lui un model imagine de tip concept. 
+Dar, nu putem in nici un fel sa ne imaginam ce este un "fruct" sau ce este 
+"hrana". Daca in cazul acestor doua cuvinte, unii mai pot forta imaginatia intr-un 
+mod mai degraba confuz pentru a-si "imagina" ce este un "fruct" sau ce este 
+"hrana", imaginatia este total blocata atunci cind trebuie sa gasim, de exemplu, 
+solutia unei ecuatii matematice. Imaginatia nu mai poate fi folosita in nici un 
+fel in cadrul modelelor simbolice. 
+
+Aparitia limbajelor logico-matematice a facut posibila translatarea modelelor 
+imagine din realitatea externa in modele simbolice. Au aparut, in acest fel, 
+printre altele si stiintele exacte.
+
+Se da ca exemplu Mecanica lui Newton. Elementele acestui model simbolic sunt  
+masa, spatiul si timpul. Nici unul din acesti termeni nu se poate asocia cu nici 
+un fel de model imagine (totusi, unii oameni inca incearca sa-si "reprezinte" 
+cumva acesti termeni sub forma de modele imagine). Folosind si o colectie de 
+relatii fundamentale, modelul lui Newton poate prezice corect evolutia unei 
+sectiuni a realitatii  externe.
+
+Evolutia creierului uman a continuat cu nivelul 4+ care va fi denumit, totusi, 
+nivelul 5 de evolutie al creierului uman. Acest nivel,  atins cu numai 100 de ani 
+in urma, inseamna constructia de modele pur simbolice, asociate realitatii 
+externe. Pentru prima data in istoria cunoasterii, realitatea externa nu mai este 
+asociabila cu modele imagine.
+
+Exemplu: Mecanica lui Newton (model simbolic) prezice traiectoria unei pietre 
+aruncata sub un anumit unghi. Totusi, si fara a sti fizica, putem sa ne imaginam 
+acea traiectorie. Aici, modelul simbolic al Mecanicii poate fi pus in 
+corespondenta cu modele imagine.
+
+Modelele pur simbolice nu mai pot in nici un fel sa fie asociate nici direct nici 
+indirect cu modelele imagine. Singurul model de acest tip cunoscut pina acum este 
+Mecanica Cuantica.
+
+Exemplu: in legatura cu Mecanica Cuantica, exista' o problema "clasica" Aceasta 
+problema este numita "natura duala a luminii". Este vorba de faptul ca exista' 
+experimente care arata ca lumina este o unda. Alte experimente demonstreaza ca 
+lumina este formata din particole. Evident ca logica pare sa esueze in aceasta 
+problema.
+
+Aberatia cu "natura duala a luminii" este sustinuta chiar de cei mai mari 
+fizicieni (R. Feynman de exemplu).
+
+Problema naturii luminii a fost de mult timp rezolvata de fizicieni, in cadrul 
+Mecanicii Cuantice. Problema "naturii duale a luminii" nu este o problema de 
+fizica ci o problema a modului de a gindi.
+
+Problema apare atunci cind fizicienii incearca sa ne explice/descrie ce se 
+intimpla. In acel moment se folosesc modele imagine. Astfel, termeni ca "unda" si 
+"particola" au trimitere directa la modele imagine. In Mecanica Cuantica, aceiasi 
+termeni sunt  asociati cu niste formule matematice. Nu exista' nici un fel de 
+corespondenta intre Mecanica Cuantica si lumea modelelor imagine. Daca cineva 
+forteaza stabilirea acestei legaturi, atunci se produc aparente aberatii logice 
+cum e si aceasta asa zisa "natura duala a luminii".  In Mecanica Cuantica si 
+deocamdata numai aici, realitatea externa este inteleasa fara a mai fi asociata 
+sau asociabila cu modelele imagine.
+
+Asa cum s-a aratat de multe ori in aceasta teorie, orice informatie este nonsens 
+din principiu daca nu este declarat de la inceput modelul. In exemplul de mai sus, 
+natura luminii este perfect inteleasa in Mecanica Cuantica. Daca nu stim Mecanica 
+Cuantica atunci si intrebarea despre natura luminii si raspunsurile sunt  non-
+sensuri. In consecinta, nu avem voie sa intrebam care este natura luminii daca nu 
+cunoastem Mecanica Cuantica. 
+
+Pentru oamenii obisnuiti poate parea ciudat ca realitatea externa nu mai poate fi 
+inteleasa prin imaginatie dar succesele Mecanicii Cuantice arata ca se poate. 
+Acest nivel 5 de dezvoltare al creierului  nu va fi atins prea curind de omul 
+mediu.
+
+Sa evaluam acum lumea in care traim pe baza acestor nivele. Exista' o fractie a 
+populatiei care sta pe nivelul 2 si ocazional trece pe nivelul 3. Majoritatea 
+absoluta a populatiei se afla pe nivelul 3 si ocazional trece pe nivelul 4. Cei 
+care stau pe nivelul 4 si 5 sunt de asemenea o minoritate dar in crestere. Acestia 
+sunt cei care propulseaza societatea inainte. 
+
+Pentru a intelege aceasta carte este necesar cel putin nivelul 4. 
+
+
+CREIERUL UMAN: EVOLUTIE SAU INTERVENTIE EXTERNA ?
+
+Exista' asemanari clare intre anumite comportamente ale animalelor si anumite 
+comportamente ale oamenilor. De aici ideea ca ar fi putut sa existe o evolutie de 
+la creierul animal catre cel uman. Asa cum va mai fi accentuat si in alte locuri, 
+teoria MDT este doar o unealta cu care incercam sa vedem daca exista vreo 
+posibilitate de trecere prin evolutie de la creierul animal la creierul uman. 
+Teoria nu sustine si nu respinge aceasta posibilitate. Ea poate doar sa ne descrie 
+doua situatii care ar putea sa fie legate intre ele sau nu si sa ne arate, 
+eventual, legatura.
+
+Conform teoriei MDT, diferenta fundamentala intre creierul animal si creierul uman 
+este facilitatea pe care o are numai creierul uman de a construi si opera modele 
+simbolice, lucru imposibil de realizat de creierul animal. Asemanarea este ca atit 
+creierul uman cit si creierul animal pot construi si opera modele imagine.
+
+Problema evolutiei inseamna, in baza teoriei, de a vedea daca prin schimbarea unor 
+parametrii in structura hardware de modelare-simulare imagine, s-ar putea obtine 
+functii noi, specifice constructiei si operarii de modele simbolice. Totodata, 
+aparitia unui hardware nou, prin adaos, nu este considerata ca fiind asociabila cu 
+un proces evolutiv.
+
+Asa cum am aratat, constructia si operarea modelelor pur  simbolice este cel mai 
+inalt nivel atins de creierul omenesc (acesta este cel putin nivelul 4 de 
+evolutie). In comparatie cu nivelul cel mai inalt atins de animale, superioritatea 
+creierului omenesc este absolut imensa.
+
+Sa vedem argumente, in baza teoriei, care ar putea sustine o trecere evolutiva de 
+la modele imagine la modele simbolice.
+
+Sa analizam daca prin cresterea nivelului de conceptualizare al modelelor s-ar 
+putea ajunge la constructia de modele simbolice. Astfel, o conceptualizare 
+avansata a modelelor ar fi putut, la limita, sa duca la aparitia de modele imagine 
+extrem de simplificate care sa se apropie de cerintele modelelor simbolice.
+
+Sa facem totusi o mica analiza bazata pe un exemplu. Astfel avem: "acest mar", 
+"mar", "fruct", "hrana". Animalele pot scurt-circuita aceste 4 nivele, construind 
+un model care sa le spuna daca ce intilnesc este sau nu hrana. In acest fel, la 
+animale, apare tendinta de blocare a evolutiei spre conceptualizarea avansata a 
+modelelor din  moment ce au o rezolvare foarte eficienta "pe scurtatura".
+
+Asa cum apare in acest exemplu, animalele nu ar avea nici un avantaj de pe urma 
+cresterii nivelului de conceptualizare.  Astfel, desi anumite mutatii genetice 
+intimplatoare ar putea face un animal sa-si creasca nivelul de conceptualizare al 
+modelelor, ar mai trebui facuti citiva pasi pentru ca sa apara avantaje de pe urma 
+acestui lucru.
+
+Conceptualizarea avansata ar fi putut fi stimulata de viata in grupuri mari de 
+animale, a caror supravietuire sa depinda de capacitatea de comunicatie precisa si 
+rapida. Astfel, comunicatia bazata pe modele imagine tot mai simplificate ar fi 
+putut stimula cresterea nivelului de conceptualizare a modelelor pina la limita la 
+care sa apara modelele simbolice. Acest mod de evolutie ar putea deci fi luat in 
+consideratie in sustinerea teoriei evolutive in aparitia omului. Aceste modele 
+concept foarte simplificate ar trebui, totusi, sa fie tratate altfel decit 
+modelele imagine si astfel sa apara structuri noi de hardware ale creierului care 
+sa construiasca si sa opereze modele simbolice, lucru care pare incompatibil cu un 
+proces evolutiv. 
+
+Faptul ca ar fi necesar un nou hardware este sustinut de urmatorul rationament: 
+avem un model imagine si o eticheta (cuvint) asociat lui. Cuvintul are o definitie 
+care este generata de modelul imagine prin conceptualizare (simplificare). Este 
+clar ca trebuie sa avem un hardware care sa memoreze modelul imagine si alt 
+hardware care sa memoreze modelul concept care constituie definitia. Aceste doua 
+inregistrari sunt foarte strins legate intre ele dar sunt diferite. Mai mult, 
+modelul imagine poate sa nu existe (nivelul 4 de evolutie). Suntem fortati sa 
+acceptam existenta unui hardware specializat pe memorarea de modele foarte 
+conceptualizate care sa genereze definitiile cuvintelor. 
+
+Unele animalele care traiesc in grupuri pot avea tendinta de a face  modele foarte 
+conceptualizate (simplificate) de comunicatie, de exemplu pentru atac sau pentru 
+aparare. Totusi comunicatia de pe nivelul 2 de evolutie este, de cele mai multe 
+ori, suficienta. Se reaminteste ca acest tip de comunicatie inseamna ca o eticheta 
+(un model foarte conceptualizat) sa activeze un model si asta e tot.
+
+Vedem deci ca nu prea reusim sa gasim argumente pentru o trecere prin evolutie de 
+la modele imagine la modele simbolice in conditiile in care sunt intrunite multe 
+conditii pentru acest tip de evolutie.
+
+Sa vedem inca un exemplu: un om se duce undeva in desert. Acolo, cu toate ca are 
+un creier extrem de evoluat in comparatie cu al animalelor, va avea mari 
+dificultati de supravietuire daca nu ar avea echipamente adecvate. In acelasi 
+timp, in jur pot exista multe animale mult mai putin evoluate decit omul, care 
+supravietuiesc fara probleme. Evolutia spre modele simbolice nu aduce direct si 
+imediat nici un avantaj acelei fiinte. In schimb, "investitia" in "echipamente" 
+aduce mult mai multe beneficii acelor animale.
+
+Sa mai vedem un aspect. Astfel, folosirea etichetelor atasate modelelor imagine 
+(de pe nivelul 2) fara modelul imagine atasat (adica nivelul 3) ar fi putut fi un 
+proces natural sau unul artificial.	Nivelul 3 pare atit de aproape de nivelul 2 
+incit saltul ar fi trebuit sa fie la indemina oricarui creier care se afla' deja 
+pe nivelul 2. Intr-adevar, pe nivelul 2, o eticheta activeaza un model. Daca apar 
+mai multe etichete intr-o succesiune rapida, creierul va fi fortat sa activeze 
+modele din ce in ce mai simplificate. Asta ar fi putut favoriza aparitia nivelului 
+3, deci a facilitatii de a construi si opera modele simbolice.
+
+Totusi, asa cum constatam experimental, nici un animal nu a reusit vreodata sa 
+ajunga pe nivelul 3 de evolutie. Maximul realizat prin evolutie de catre animale a 
+fost ca unele au acceptat sa fie domesticite, si asta extrem de tirziu. Asta este 
+extrem de putin din punctul de vedere al evolutiei creierului lor. Chiar in 
+interactie cu oamenii, cele mai avansate animale au continuat sa ramina pe nivelul 
+2 de evolutie.
+
+Primele modele imagine cu bataie lunga, care au fost translatate in desene pe 
+peretii unor pesteri, au aparut cam in urma cu 150000 de ani. In aceasta etapa, in 
+mod clar, capacitatea de a construi modele cu bataie lunga a fost relativ mare. 
+Acele desenele nu ar fi avut sens fara existenta modelelor simbolice. Motivul este 
+ca un desen nu are nici o semnificatie pentru ceilalti daca lui nu i se ataseaza 
+ceva informatie simbolica (explicatii).  De exemplu, un desen poate fi folosit 
+pentru a ilustra o strategie sau pentru a indica o situatie. Desenul poate fi 
+acelasi in ambele variante. Aparitia acelor desene (modele imagine) nu inseamna 
+neaparat ca datorita lor au aparut modelele simbolice.
+
+Aparitia modelelor imagine cu bataie lunga din modele imagine cu bataie scurta 
+este usor de inteles pe baza unui proces evolutiv. Capacitatea de a construi si 
+opera modele cu bataie lunga nu pare sa explice aparitia modelelor simbolice. 
+Totusi, aparitia modelelor cu bataie lunga este absolut necesara evolutiei. Ele 
+cereau deci modele simbolice de comunicatie pentru eficientizarea folosirii lor. 
+
+Exemplu: copiii de 5-10 ani fac desene destul de primitive (modele concept 
+asociate clar de modelele imagine din mintea lor) desi ei pot sa stapineasca nu 
+numai limba de comunicatie generala dar si anumite limbaje logico-matematice. Din 
+acest exemplu ar rezulta ca modelele imagine cu bataie lunga nu sunt absolut 
+necesare pentru trecerea la modele simbolice. Tot de aici s-ar sugera existenta 
+unui hardware specializat in constructia si operarea de modele simbolice. Acest 
+posibil hardware specializat in constructia si operarea modelelor simbolice ar 
+incepe sa functioneze la copii incepind cu virsta de aproximativ 2 ani.
+
+Exista' unele experimente facute pe maimute dresate care pot fi interpretate ca 
+fiind manifestari asociabile cu forme primitive de modele simbolice. Totusi, ele 
+pot fi interpretate si ca fiind bazate pe modele imagine cu nivel ceva mai mare de 
+conceptualizare. Ar rezulta ca, desi facilitatea de a construi modele simbolice ar 
+putea sa fie rezultatul cresterii accentuate a nivelului de conceptualizare a 
+modelelor imagine, animalele nu au tendinta de a face asta.
+
+Cu toate eforturile oamenilor, care eforturi s-au intins pe sute de mii de ani, 
+animalele par a fi blocate pe nivelul 2 de evolutie. 	Teoretic ar fi posibil ca 
+in decursul multor generatii de maimute  dresate sa se ajunga la folosirea de 
+catre ele a elementelor simbolice,  dar, asa cum am aratat, creierul animalelor nu 
+are nici o tendinta naturala sa evolueze in aceasta directie. Cel mult se poate 
+considera ca animalele ar putea sa implementeze prin software anumite facilitati 
+asociabile cu modelele simbolice dar, evident, o implementare software nu are cum 
+sa fie prea eficienta si in plus, nu va fi transmisa generatiilor urmatoare decit 
+daca va aparea si o implementare hardware.
+
+Contra-argumentele variantei evolutive ar putea fi urmatoarele: in sute de mii de 
+ani, maimutele nu au evoluat, cu exceptia unor presupuse maimute "speciale" din 
+care s-ar trage omul. Alt contra-argument al variantei evolutive este legat de 
+faptul ca functia de constructie de modele simbolice pare a fi realizata cu un 
+hardware specializat. Oricum, fara un hardware specializat, functia de constructie 
+si operare de modele simbolice nu ar fi eficienta. Acest hardware specializat este 
+sprijinit indirect de viteza foarte mare cu care omul a evoluat odata cu aparitia 
+limbii de comunicatie. 
+
+Daca acest hardware specializat ar fi fost realizat prin evolutie, atunci este 
+extrem de greu de inteles de ce nu avem stadii intermediare. Deci daca acest 
+hardware nou ar fi realizat prin evolutie ar fi trebuit sa avem semi-animale sau 
+semi-oameni lucru total inexistent. Nici cele mai evoluate animale, incluzind 
+delfinii, nu prezinta caracteristici asociabile cu un hardware de constructie de 
+modele simbolice, desi evolutia lor a fost mai lunga decit a oamenilor. 
+
+Aceste contra-argumente ar putea sugera existenta unui proces evolutiv dirijat si 
+ajutat din exterior.
+
+Avem deci urmatoarele argumente:
+1. modelele imagine cu bataie lunga nu sunt esentiale pentru constructia si 
+operarea de modele simbolice.
+2. modelele simbolice ar fi putut aparea prin conceptualizare foarte avansata a 
+modelelor imagine, din necesitati de comunicatie.
+3. modelele simbolice sunt construite si operate de un hardware specializat
+
+Ar rezulta ca un proces evolutiv ar fi posibil doar daca s-ar putea explica de ce 
+maimutele actuale nu au evoluat si ele si daca s-ar explica aparitia, prin 
+evolutie, a unui hardware specializat. Pentru a fi mai precis, un hardware 
+specializat nu este compatibil cu un proces evolutiv in conditiile in care nu avem 
+elemente intermediare intre animale si om. Alternativa ar fi un proces evolutiv 
+dirijat din exterior.
+
+
+DEFICIENTELE DE PROIECTARE ALE CREIERULUI
+
+Teoria considera' creierul ca un produs tehnologic. Astfel, teoria considera' ca a 
+existat un proiectant abstract, care a avut cerinte de proiectare.
+
+In legatura cu acest mod de abordare, ar putea sa existe intrebarea: cine este 
+acel "proiectant"? Din punctul de vedere al teoriei, acest proiectant abstract 
+este in exteriorul teoriei si deci nu ne intereseaza. El ar putea fi Dumnezeu sau 
+Mama Natura sau o civilizatie extraterestra sau oricine/orice altceva. Indiferent 
+cine este acest "proiectant", teoria va fi aceeasi. 
+
+La acest capitol o sa tratam niste posibile deficiente de proiectare, asa cum 
+rezulta din MDT. Unele deficiente sunt deficiente  de principiu altele sunt date 
+de implementarea tehnologica.
+
+Deficientele de proiectare, asa cum apar in teoria MDT sunt :
+
+XD1: Tendinta de a asocia modele imagine la orice fel de realitate externa 
+intilnita. Aceasta deficienta este explicabila, data fiind natura "imagine" a 
+creierului. PSM-ul si toate modelele asociate direct cu partea "mecanica" a 
+omului, vor continua pentru totdeauna sa fie bazate pe modele imagine. Totusi, 
+modelele construite de fiecare om in parte sunt  suficient de puternice pentru a 
+contracara aceasta tendinta, considerata ca o frina pentru dezvoltarea omului 
+modern (vezi cazul Mecanicii Cuantice). Aceasta deficienta este deci corectabila 
+prin software (educatie).
+
+XD2. Nu exista o protectie de hardware pentru a preveni saltul necontrolat dintr-
+un model in altul. Stabilitatea intr-un model este un parametru de calitate al 
+unui creier. 
+
+Aici este de precizat un lucru: o persoana care are modele cu bataie lunga, va 
+putea sa se stabilizeze singura in  aceste modele. Totusi, chiar daca aceste 
+modele cu bataie lunga pot crea o baza de stabilitate, asta nu inseamna ca acea 
+persoana va fi efectiv stabilizata de aceste modele. Deficienta nu se refera la 
+existenta sau nu a unor modele cu bataie lunga, ci la capacitatea, data de 
+implementarea hardware, de a nu sari necontrolat dintr-un model in altul in fata 
+unei realitati externe complexe. Lipsa de stabilitate intr-un model poate duce la 
+schizofrenie deoarece ea favorizeaza constructia de modele cu bataie prea scurta. 
+
+Urmarirea comportamentului animalelor arata ca stabilizarea intr-un model se 
+intimpla extrem de rar. De exemplu, un ciine de paza ar trebui sa pazeasca 
+perimetrul care trebuie aparat, indiferent de actiunile strainilor. Totusi, cei 
+mai multi ciini sar din modelul de paza in modelul prioritar de hrana daca va 
+primi hrana de la posibilii intrusi. Delfinii, in schimb, au o foarte buna 
+stabilitate in model si de acea noi ii percepem ca fiind cele mai inteligente 
+animale.
+
+La oameni, lipsa de stabilitate in model este un defect major pentru integrarea in 
+societate. Un om fara stabilitate in model este un om pe care nu te poti baza.
+
+XD3: Aceasta deficienta este o deficienta de principiu. Ea va fi introdusa la 
+inceput prin descriere. Astfel, creierul interactioneaza cu realitatea externa si 
+descopera, de exemplu, 3 elemente. Se va construi un model armonic cu aceste trei 
+elemente. Daca realitatea externa contine de fapt 4 elemente, elementul lipsa nu 
+poate fi detectat direct. Dupa citeva predictii gresite ale modelului cu 3 
+elemente, creierul va incerca sa corecteze modelul. Asta se poate face prin 
+atribuirea altor importantze elementelor sau relatiilor. Daca acest tip de 
+corectie reuseste, modelul "gresit" va continua sa aiba 3 elemente. Daca prin nici 
+o modificare a importantzei elementelor/relatiilor nu se obtin predictii corecte 
+atunci sa va pune problema constructiei unui nou model. Totusi, chiar daca un 
+model face predictii gresite, din analiza greselilor nu rezulta' direct care este 
+de fapt problema. Un model imagine se corecteaza in general prin multe metode, asa 
+cum am aratat, in fiecare caz modelul continuind sa fie armonic.
+
+Putem sa definim deficienta de proiectare XD3A ca fiind incapacitatea de a 
+anticipa posibila omitere a unor elemente sau relatii, dintr-un model. Asta 
+trebuie inteles astfel: nu avem nici o garantie ca am descoperit toate elementele 
+si relatiile asociate unei sectiuni a realitatii externe dar suntem constienti ca 
+s-ar putea sa nu fi descoperit tot. In consecinta, o persoana care contracareaza 
+aceasta deficienta de proiectare va trata orice model cu precautie.
+
+Daca realitatea externa are, in alt exemplu, 100 de elemente, modelul ar putea 
+face foarte des predictii foarte bune asociate realitatii externe. Dar daca 
+realitatea externa se schimba de la 100 la 101 elemente, corectarea modelului ar 
+putea fi o imposibilitate tehnica pentru creier. Corectarea modelului inseamna 
+abandonarea totala a modelului cu 100 elemente si constructia de la zero a noului 
+model cu 101 elemente. Aceasta sarcina poate fi atit de dificila incit sa 
+depaseasca capacitatea tehnica de reactualizare a creierului. In aceasta situatie 
+oamenii care nu pot corecta modelul, vor continua sa-l foloseasca pe cel vechi 
+prin distorsionarea perceptiei realitatii externe si/sau prin reflectarea 
+fragmentata a acelei realitati externe. Vom nota aceasa deficienta cu XD3B si o 
+vom defini ca fiind incapacitatea de a corecta deficienta XD3A dupa ce am 
+descoperit un element sau relatie neinclusa intr-un model stabilizat.
+
+Deficientele de tip XD3 se manifesta permanent in toate actiunile noastre. Nu 
+exista nici o referinta de a sti daca fiecare entitate a realitatii externe este 
+asociata cu un element al modelului. Pentru noi realitatea externa exista numai in 
+masura in care este reflectata de un model. Daca un model face predictii uneori 
+gresite, din analiza erorilor nu rezulta direct care este problema. A spune despre 
+un model ca reflecta corect realitatea externa asociata inseamna sa ne referim 
+numai la  verificarile deja facute. Garantie de corectitudine nu exista'. In 
+aceasta situatie, efectele negative ale lui XD3 se manifesta extrem de frecvent la 
+orice persoana perfect normala. Din aceasta cauza XD3, desi este o deficienta 
+majora, nu este tratata in MDT ca o boala psihica.
+
+XD3 se manifesta foarte puternic la schizofrenici, inclusiv la cei nepatologici 
+(vezi aplicatiile). XD3 se mai manifesta in orice situatie in care persoana nu 
+este intr-o stare fizica si psihica buna, de exemplu atunci cind apare oboseala 
+sau suprasolicitarea creierului, desi, evident, acestea sunt doar stari temporare. 
+Multe accidente, inclusiv cele catastrofale si inclusiv cele facute de oameni 
+extrem de bine pregatiti, se pot explica prin XD3. Deficienta poate fi tinuta sub 
+control de persoanele care reusesc sa-si dea seama de posibilitatea aparitiei 
+acestei deficiente.
+
+De exemplu, daca suntem obositi atunci trebuie sa ne oprim de la a face operatii 
+riscante deoarece riscul de aparitie a XD3 este foarte mare.
+
+XD4: Aceasta deficienta este o deficienta de principiu a modelelor imagine. Ea nu 
+exista la modelele simbolice.
+
+Modelele imagine nu au nici o posibilitate de a gasi importantza corecta a 
+fiecarui element sau relatie. Modelul poate fi armonic pentru o infinitate de 
+importantze atribuite elementelor si relatiilor. Chiar mai mult, pentru o mare 
+varietate in importantza atribuita elementelor sau relatiilor, modelul poate sa 
+faca predictii acceptabile.
+
+Una din consecintele  negative "usoare" ale acestei deficiente este ca, in fata 
+aceleiasi realitati externe, fiecare persoana construieste propriul sau model 
+imagine, care sa descrie aceeasi realitate externa. Vom vedea in alta parte ca 
+aceasta deficienta, dusa la extrem, este implicata in boala psihica numita 
+"paranoie".
+	
+Modelele simbolice nu au aceasta deficienta. Odata ce un model simbolic este 
+matematizat, legea de propagare a erorilor va atribui importantza corecta fiecarui 
+element sau relatie.
+
+Am folosit mai sus termenul "corect" asociat modelelor imagine. In acest context, 
+importantza atribuita elementelor si relatiilor unui model imagine este "corecta" 
+daca predictiile sunt  identice cu cele ale unui model simbolic care descrie 
+aceasi realitate externa.
+
+XD5: Incapacitatea tehnica a creierului de a face restructurari masive in 
+structura de modele, atunci cind un model important normal nu mai are asociata lui 
+nici o realitate externa (exemplu, o persoana importanta dispare din viata 
+subiectului). Aceasta deficienta este strins legata de implementarea hardware. 
+Aceasta implementare nu permite stergerea unui model prin nici o actiune (de hard 
+sau de soft) a structurii de modele, cu toate implicatiile majore ale acestui 
+fapt.
+
+
+STRUCTURA CREIERULUI: Modelul PSM
+
+Desi modelul imagine numit PSM (Protection and Surviving Model) se intilneste si 
+la oameni si la animale, descrierea se va axa in principal pe PSM-ul oamenilor. Cu 
+adaptari minime, tot ce este scris aici se aplica si la animale.
+
+Nucleul in jurul caruia se construieste intreaga structura de modele a unei fiinte 
+(om sau animal) este un model imagine numit Modelul de Protectie si Supravietuire 
+(PSM). Acesta este un model complex, care, in buna parte, este gata construit in 
+momentul in care o fiinta se naste.
+
+PSM-ul are o structura complexa care va fi descrisa in continuare. O sectiune 
+contine modele cu bataie scurta, cu actiune imediata, pentru protectia minimala a 
+unei fiinte, inclusiv a nou nascutilor. In general aici se afla modelele de tip 
+actiuni-reflex (actiuni rapide de salvare in situatii speciale). Tot aici se afla' 
+modelele imagine fundamentale cum ar fi modelele de urmarire cu ochii a unui 
+obiect in miscare, modelele de atingere cu mina a unui obiect dat, modelele de 
+echilibru si de folosire generala a  miinilor si picioarelor in situatii normale, 
+etc. Tot aici trebuie sa fie incluse o serie de modele date de structura de modele 
+ale parintilor acelei fiinte precum si de cerintele societatii in care acea fiinta 
+urmeaza sa fie integrata. Intr-o masura mai mica sau mai mare, acestea se transmit 
+genetic.
+
+Sectiunea de modele cu bataie lunga (cele care ordoneaza activitatea modelelor cu 
+bataie scurta) contine instinctele de supravietuire generala si de reproducere. 
+Tot aici se afla, bineinteles, si un model special care contine intreaga structura 
+mecanica "externa" a acelei fiinte (oasele, articulatiile, toate fibrele 
+musculare, organele de simt etc.).
+
+Proiectantul a avut ca obiectiv sa creeze o fiinta care sa supravietuiasca vesnic, 
+neconditionat, in orice mediu concret probabil. 
+
+In timpul perioadei de crestere, in PSM pot/trebuie sa intre si alte modele 
+considerate foarte importante, impuse in general prin educatie, pentru a face acea 
+fiinta compatibila cu mediul in care trebuie sa traiasca. Vom reveni la aceasta 
+problema la alt capitol.
+
+O caracteristica fundamentala a unui model din PSM este ca, odata intrat in PSM, 
+modelul devine invariant (imposibil de modificat, oricare ar fi informatia adusa 
+din realitatea externa).
+
+Principala functie a PSM-ului este asigurarea supravietuirii vesnice, 
+neconditionate a acelei fiinte. Pentru a-si indeplini in mod corespunzator 
+sarcina, PSM-ul initiaza constructia de noi modele, care sa imbunatateasca mereu 
+si mereu aceasta activitate. Asta inseamna ca PSM-ul poate construi elemente noi, 
+pe care sa le activeze pentru a se autodezvolta ca modele. Astfel, daca o situatie 
+este detectata de PSM ca o situatie de pericol sau o situatie pentru care nu 
+exista' model specializat, el va prelua controlul asupra acelei fiinte si va 
+incerca sa rezolve situatia cu mijloacele care-i stau la dispozitie (gesturi 
+reflex de exemplu). In acelasi timp, va activa constructia unui model nou, adecvat 
+noii realitati externe. Atunci cind situatia care a activat PSM-ul va aparea din 
+nou, PSM-ul nu se va activa iar situatia va fi rezolvata de acel model normal 
+adecvat.
+
+Acest mecanism face ca, pe masura ce o fiinta nou nascuta cistiga experienta 
+(adica are modele adecvate la tot mai multe situatii intilnite in realitatea 
+externa), PSM-ul se activeaza din ce in ce mai rar. In acest fel, PSM-ul isi 
+indeplineste tot mai bine sarcina pentru care a fost proiectat.
+
+Oricite modele ar exista intr-un creier matur (de om sau de animal), PSM-ul va fi 
+oricind pregatit sa preia controlul, daca nu exista' model adecvat unei realitati 
+externe date.
+
+PSM-ul va controla interactia unei fiinte cu realitatea externa numai atunci cind 
+nu exista' nici un model ZM care sa faca predictii acceptabile ale evolutiei unei 
+realitati externe date.
+
+Atunci cind PSM-ul controleaza fiinta, acest lucru se recunoaste prin  disparitia 
+constiintei, pe toata durata cit PSM-ul are fiinta sub control. Acest lucru se 
+intimpla, de exemplu, in stari emotive sau in stari de soc. Constiinta reapare 
+atunci cind un model ZM a preluat controlul.
+
+
+
+STRUCTURA CREIERULUI : Facilitati functionale si tipuri de modele
+
+O facilitate functionala fundamentala a creierului este ca orice model poate sa-si 
+dezvolte oricare element ca model. De asemenea, orice model poate avea acces sau 
+chiar poate sa integreze orice element al oricarui alt model, pentru a-si atinge 
+obiectivele. Este absolut socant sa vezi ca, in materie de facilitati functionale, 
+in cadrul unei structuri date de modele, creierul nu pare a avea aproape nici o 
+restrictie de acces si asociatie.
+
+Tot observatiile directe ne arata' ca exista' modele la care accesul se face mai 
+usor decit la alte modele. De aici, concluzia ca, in implementarea tehnologica, 
+unele modele sunt  grupate si de aici si o comunicatie mai usoara intre unele 
+dintre ele.
+
+Sa mai vedem un detaliu general. Am aratat ca orice model, nu numai PSM-ul, poate 
+sa-si dezvolte orice element al sau sub forma de model. Totusi, chiar daca un 
+element al unui model este deja dezvoltat ca model, el continua sa fie tratat ca 
+element. Intrucit aceasta este o facilitate generala foarte importanta, ea va fi 
+descrisa aici in detaliu.
+
+Astfel, daca un model contine un element, acest element este caracterizat de niste 
+proprietati. Aceste proprietati intervin in integrarea elementului in model. 
+Problemele care apar pot fi de tipul: "de ce acel element are acele proprietati?" 
+sau "cum ar putea sa fie schimbate acele proprietati?". Pentru a sti asta, este 
+nevoie ca acel element sa fie studiat in amanuntime. Pentru aceasta, modelul poate 
+sa-si dezvolte acel element ca model.
+
+Cind o entitate este tratata ca element, atunci acel element are niste 
+proprietati. Cind aceasi entitate este tratata ca model, atunci ceea ce aparea ca 
+fiind proprietati sunt acum adevaruri generate de acel model. Deci, in functie de 
+locul de unde privim, referindu-ne la aceasi entitate, vom vorbi de elemente cu 
+anumite proprietati sau de modele cu o colectie de adevaruri.
+
+Am vorbit deja de modele cu bataie scurta si modele cu bataie lunga. Vom vedea 
+definitiile lor.
+
+Modelele cu bataie lunga sunt  modelele la care elementele sunt  deja dezvoltate 
+ca modele. Un astfel de model poate sa activeze si sa dezactiveze oricare model al 
+sa'u (continut sub forma de element). In acest fel avem, in prima aproximatie, 
+urmatoarele definitii:
+1. un model cu bataie lunga isi atinge obiectivele prin activarea si dezactivarea 
+unora din modelele pe care le contine.
+2. Un model cu bataie scurta isi atinge obiectivele prin activare directa.
+
+Exemplu: Pentru a aprinde lumina intr-o camera, un model general de tip ZM va 
+construi un model ZAM (de actiune). Acest ZAM va simula un numar de moduri de 
+rezolvare a problemei, folosind sau construind  modelele AZM. Prin simularea 
+actiunii, ZAM-ul va gasi solutia optima. Atunci va activa/controla unul sau mai 
+multe AZM-uri, care vor actiona efectiv intrerupatorul. Actiunea se termina cind 
+ZM-ul activ ii transmite informatia ca obiectivul a fost atins. In acel moment o 
+sectiune din ZM va fi aproximativ identica cu ZAM-ul. Aceasta s-a realizat printr-
+un model cu bataie scurta.
+	
+Exemplu: Pentru a calatori dintr-un loc in altul trebuie construit un model cu 
+bataie lunga ZAM. Acesta va construi, secvential, o colectie de alte modele ZAM 
+care, la rindul lor, pot construi alte modele ZAM si asa mai departe. Fiecare ZAM 
+va activa o colectie de AZM-uri, cu bataie scurta (chiar de ordinul milioanelor 
+sau mai mult) pentru a-si atinge obiectivele. Fiecare nou ZAM va fi dezactivat de 
+ZAM-ul superior pe masura ce si-a atins obiectivul. Asa actioneaza modelele cu 
+bataie lunga.
+
+Exemplu: intram intr-o camera si actionam intrerupatorul de lumina. Lumina se 
+aprinde. Un model local de tip ZM obtine aceasta informatie. Totusi, pe un model 
+ZM cu bataie lunga (care contine ZM-ul local ca element) am putea sa intelegem, de 
+exemplu, ca cineva a reparat lumina care a fost stricata. Modelul ZM-local 
+transmite doar informatii actuale. Semnificatia lor poate fi data doar de modele 
+ZM care includ ZM-ul local ca element. Si aici se poate vedea actiunea unui model 
+cu bataie lunga.
+
+Vom mai aduce o precizare importanta, legata de modelele cu bataie lunga. Am spus 
+ca elementele acestor modele sunt  deja dezvoltate ca modele. Aceste modele isi 
+pot de asemenea dezvolta elementele ca modele. Aceasta "adincime" nu are decit 
+limite tehnologice. In acest fel, majoritatea absoluta a modelelor sunt  de fapt 
+modele cu bataie lunga. Din aceasta cauza termenii de "model cu bataie  scurta" si 
+"lunga" trebuie intelesi doar in mod relativ, in functie de modelele ZM si ZAM 
+principale. Definitiile date mai sus respecta aceaste conditii.
+
+Vom da in continuare o lista cu principalele tipuri de modele ale unui creier dat. 
+	
+Modelele de tip ZAM sunt  modele care se construiesc atit pentru nevoi imediate 
+cit si pentru ordonarea cu bataie lunga a activitatii unei persoane. Ele incep, de 
+exemplu, cu modele simple (a bea apa dintr-o cana) si se termina cu urmarirea unui 
+singur obiectiv timp de o viata. Ele sunt,  in general, invariante sau cu 
+schimbari lente, conjuncturale sau de alta natura. Ele pot fi modele extrem de 
+conceptualizate, pina la a fi doar o colectie de principii generale de viata sau 
+modele complexe, specifice unui sigur tip de activitate sau orientate spre un 
+singur obiectiv concret.
+
+Un model de tip ZAM poate construi, la rindul lui, un numar oricit de mare de 
+modele de tip ZAM, sub forma de elemente, pe care sa le activeze in functie de 
+evolutia realitatii si in functie de alti factori. Modelele secundare de tip ZAM 
+pot sa construiasca, la rindul lor, oricite alte modele de tip ZAM, sub forma de 
+elemente ale lor. Aceasta facilitate, asa cum am aratat deja, este o facilitate 
+generala a oricarui creier. Modelele de tip ZAM pot fi modificate, in principiu, 
+de modele de tip ZM, in functie de informatiile primite de la alte modele M si ZM.
+
+Modelele de tip AZM sunt  modele de actiune directa. Desi creierul are o colectie 
+de modele AZM de tip concept, fiecare activare a unui astfel de model se face dupa 
+ce a fost particularizat prin simulare, functie de informatiile date de intrega 
+structura de modele ale creierului. Astfel, atunci cind mergem, fiecare pas este 
+facut numai dupa ce un model concept de tip ZAM a facut mai multe simulari ale 
+acelui pas, folosind modele AZM si a ales varianta optima. Dupa ce varianta optima 
+a fost aleasa, modelul ZAM particularizat va deveni activ in controlarea acelui 
+pas. Acest principiu general este folosit de creier la absolut orice activitate 
+care presupune actiunea asupra realitatii externe. Fara a simula pe model o 
+actiune, actiunea nu se poate face din principiu.
+
+Singurele exceptii sunt legate de activarea PSM-ului. Gesturile "reflex", de 
+exemplu, sunt  efectuate de modele specializate care se activeaza direct, fara 
+initializare si fara simulare prealabila a actiunii. Motivul este dat de cerinta 
+ca actiunea lor sa fie foarte rapida, cu riscul de a nu fi actiunea optima.
+
+
+Modelele de tip activ (modele ZM normale)
+Aceste modele sunt  cele care s-au construit prin interactie directa cu realitatea 
+externa (complexul M-YM-ZM). Ele vor fi folosite ori de cite ori apare o situatie 
+similara cu cea care le-a generat. Ele genereaza cunoasterea si constiinta.
+
+Vom reaminti aici ca, in fata unei realitati externe noi, se va activa acel model 
+care face cele mai bune predictii asupra evolutiei acelei realitati externe. In 
+orice moment al vietii unei fiinte, va exista un ZM local si cel putin un ZM care 
+include modelul ZM local, ca element. Un model ZM-local da informatii asupra 
+realitatii externe "care se vede". In spatele lui se afla unul sau mai multe 
+modele ZM care pot sa "vada" mai departe, prin interpretarea datelor furnizate de 
+modelul ZM, in functie de datele oricarui alt model al creierului.
+
+Modelele principale cu bataie lunga ale unui animal sau a unei persoane se numesc 
+MZM-uri (Main ZM). Un MZM contine un mare numar de modele, de tip ZM, YM, AZM si 
+ZAM, care controleaza o sectiune importanta din interactia unei fiinte cu 
+realitatea externa. 
+
+Exemplu: MZM-viata de famile, MZM-profesie, MZM-hobby.
+
+Aceste MZM-uri nu sunt  modele propriuzise. Ele trebuie intelese ca niste 
+structuri conventionale, aparute ca urmare a optimizarii activitatii intr-un 
+anumit domeniu dat, la implementarea tehnologica a creierului. Astfel, la un tip 
+de activitate specifica vor exista un numar de modele care vor fi folosite foarte 
+frecvent. Accesul la ele va fi mai usor decit la un model care este folosit rar. 
+Structura de modele va avea astfel anumite optimizari tehnologice, pentru 
+activitati frecvente. Toate modelele care se folosesc frecvent pe un tip de 
+activitate se afla inglobate intr-o structura mai mult sau mai putin conventionala 
+numita MZM. Accentuam ca aceste MZM-uri sunt  structuri conventionale, date de 
+anumite particularitati tehnologice si nu sunt  modele propriuzise.
+
+
+Modelele Poveste (Story-type models)
+Acestea sunt  modele de tip ZM de tranzitie, create atunci cind modelele de tip M 
+furnizeaza informatii prea disparate pentru a putea fi incluse intr-un model 
+normal (modelele ZM-locale ar trebui schimbate extrem de des, de exemplu). Ele 
+contin lanturi lungi de elemente legate intre ele in ordinea in care au fost 
+inregistrate. Acesta este totusi un mod de stocare  neeconomic.
+
+Se precizeaza, pentru comparatie, ca un model normal poate sa genereze o imensa 
+cantitate de informatie, prin simulare pe model. Toate aceaste informatii, 
+generate de un model normal, nu se afla memorate intr-un mod explicit in model. 
+Modelele poveste sunt cele care memoreaza informatia in mod explicit deci 
+neeconomic.
+
+Observatie: unele persoane care au citit aceasta carte au fost deranjate de 
+frecventele repetari ale unor afirmatii. Aceste persoane sunt deranjate deoarece 
+construiesc modele poveste. La repetarea unei informatii, aceste persoane "sar" 
+inapoi la locul unde informatia a mai fost intilnita si acest lucru ii face sa 
+piarda sirul expunerii (modelul poveste se fragmenteaza). Din contra, daca 
+persoana a construit un model normal, la repetare se reconfirma si se 
+imbunatateste modelul aflat in constructie si deci repetarile sunt binevenite.
+
+Modelele Poveste pot fi folosite pentru a alimenta cu informatie modelele normale, 
+pentru imbunatatirea lor ulterioara.
+
+Oricare din elementele acestui tip de model poate fi dezvoltat  ulterior ca model 
+cu bataie lunga sau informatia din ele poate fi folosita pentru perfectionarea 
+altor modele.
+
+Desi reflectarea realitatii externe prin modele poveste este extrem de raspindita, 
+la toate nivelele de evolutie a creierelor, teoria considera ca acesta este un mod 
+ineficient si in general primitiv de folosire a creierului. Motivul principal este 
+ca modelele poveste introduc restrictii din cauza legaturilor dintre modele si 
+care legaturi nu au fost determinate pe cai normale. Caile normale sunt  cele in 
+care un model nou este integrat in mod armonic/logic in structura de modele 
+existente. 
+
+Din nefericire, in zilele noastre, aceste modele sunt  folosite pe o scara 
+inadmisibil de mare ca efect al incapacitatii creierului de a face fata avalansei 
+de informatii asociate cu dezvoltarea sociala actuala dar si din cauza 
+deficientelor grave din sistemul de invatamint. Astfel, daca invatamintul s-ar axa 
+pe modele normale ar scadea foarte mult informatia explicita care ar trebui 
+memorata. Fiind orientat   spre modele poveste, cantitatea de informatie creste 
+exagerat de mult si astfel se depasesc unele limite tehnologice ale functionarii 
+creierului.
+
+Exemplu: un sofer de taxi trebuie sa cunoasca toate strazile unui oras.  Modul 
+eficient de rezolvare a problemei navigatiei intr-un oras este de a avea in cap 
+intreaga harta a orasului (model imagine normal). Pe aceasta harta se pot simula 
+diverse cai de atingere a unui obiectiv dat, chiar daca apar probleme sau 
+modificari. Totusi, navigatia dupa harta (model imagine normal) presupune 
+existenta si operarea unui model imens. Invatarea traseelor (modele poveste) da 
+rezultate imediate dar poate produce mari dificultati daca apar modificari si alte 
+pertubatii in realitatea externa. In plus, a invata trasee este usor la inceput 
+dar pe masura ce creste numarul de trasee, cantitatea de informatie care trebuie 
+memorata creste extrem de mult. Prin invatarea modelului normal este rezolvata 
+orice problema de navigatie si deci, indiferent de cite noi trasee se cer, 
+cantitatea de informatie aditionala este neglijabila.
+
+In practica se folosesc ambele metode. Acest tip de abordare, desi a fost 
+exemplificat pe o situatie particulara, se poate intilni in absolut toate 
+domeniile de activitate umana.
+
+Modelele poveste dezvoltate ca modele cu bataie lunga pot favoriza paranoia indusa 
+din cauza favorizarii pe criterii arbitrare a anumitor relatii intre elemente si 
+din cauza dificultatilor de control. De acest pericol nu sunt  ferite nici 
+cursurile universitare, atunci cind ele nu sunt  generate de un model simbolic 
+declarat de la inceput.
+
+Modelele poveste sunt  integrate in structura normala de modele si deci pot fi 
+controlate de ea.
+
+
+Modelele de ecranare
+Asa cum am mai aratat, orice model poate sa evolueze singur, folosind informatiile 
+din realitatea externa sau de la alte modele, pentru a-si cistiga stabilitatea 
+(armonia sau logica). Odata ce un model are o problema, el va continua sa fie 
+activ pina la rezolvarea problemei (adica pina isi va regasi stabilitatea).
+
+Exista' insa probleme fara solutie. Modelul va continua sa caute o solutie, la 
+nesfirsit, punind astfel in pericol stabilitatea sistemului de modele.
+
+Principala problema fara solutie este problema mortii. Aceste tipuri de modele 
+sunt  specifice numai oamenilor, care au modele suficient de puternice care sa 
+prezica moartea, mai repede sau mai tirziu, a oricarei persoane.
+
+Aici insa apare o problema. PSM-ul are, prin proiectare, sarcina de a asigura 
+supravietuirea vesnica, neconditionata a acelei persoane. Predictia unor modele 
+este ca moartea este inevitabila. Aceasta problema este extrem de periculoasa 
+pentru stabilitatea creierului din cauza ca, activind permanent PSM-ul, pot sa 
+apara bucle infinite de cautare a unei solutii care nu exista.
