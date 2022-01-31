@@ -7,6 +7,7 @@
 #include <vector>
 using namespace std;
 
+#define N 10
 typedef unordered_map<string, unordered_map<char, int>> mapa;
 
 
@@ -87,7 +88,6 @@ void getModelTxt(mapa &model, string modelFilename, int k){
 }
 
 
-
 int getTxt( mapa &t_map, string filename, int k){
     ifstream t(filename);
     if(!t){
@@ -147,7 +147,7 @@ void joinModelTxt(mapa &mdl, mapa &txt, mapa &result){
 }
 
 
-int getCompressBits(mapa &t_map, int num_symbols, double alpha){
+int getCompressBits(mapa &t_map, double alpha){
     int total=0, tc_aux;
     vector<int> occur, total_ctx;
     vector<double> h_ctx, pi, hi;
@@ -164,7 +164,7 @@ int getCompressBits(mapa &t_map, int num_symbols, double alpha){
         total_ctx.push_back(tc_aux); 
 
         for(int i=0; i<occur.size(); i++)
-            pi.push_back( double((occur[i]+alpha)/(tc_aux+alpha*26)) );
+            pi.push_back( double((occur[i]+alpha)/(tc_aux+alpha*60)) );
         for(int i=0; i<pi.size(); i++)
             hi.push_back( double(pi[i]*log2(pi[i])) );
         for(int i=0; i<hi.size(); i++)
@@ -177,19 +177,19 @@ int getCompressBits(mapa &t_map, int num_symbols, double alpha){
     
     for(int i=0; i<h_ctx.size(); i++) 
         model_entropy += double(h_ctx[i]*total_ctx[i]/total);
-    return model_entropy*num_symbols;
+    return model_entropy;
 }
 
 
 
 int main(int argc, char *argv[]){
 
-    if(argc < 5){
-        puts("\nUsage: model1 model2 [modelx, ...] text order alpha");
+    if(argc < 4){
+        puts("\nUsage: text order alpha");
         exit(1);
     }
     
-    int N = argc-4, k = atoi(argv[argc-2]);
+    int k = atoi(argv[argc-2]);
     double alpha = stof(argv[argc-1]);
     if(alpha < 0 || alpha > 1){
         cout << "Error alpha value: 0 <= alpha <= 1" << endl;
@@ -200,46 +200,32 @@ int main(int argc, char *argv[]){
         exit(1);
     }
 
-
+    
+    string dir = "./LanguageTexts/", texts[] = {"czech.txt","danish.txt","english.txt","finnish.txt","french.txt", "italian.txt", "polish.txt", "portugues.txt", "romanian.txt", "spanish.txt"};
     mapa models[N], results[N];
     for(int i=0; i<N; i++){
-        getModelTxt(models[i], argv[i+1], k);
-        /*
-        cout << "\n\nModelo " << i+1 << endl;
-        for(auto x: models[i]){
-            for(auto y: x.second){
-                cout << "ctx: " << x.first << ", char: " << y.first << ", ocur: " << y.second << endl;
-            }
-        }*/
+        getModelTxt(models[i], dir+texts[i], k);
     }
         
-
     
     mapa model_txt;
-    int num_symbols = getTxt(model_txt, argv[N+1], k);
+    int num_symbols = getTxt(model_txt, argv[argc-3], k);
     cout << "Numero de symbols do texto = " << num_symbols <<endl;
-    /*
-    cout << "\nModelo do texto: " << endl;
-    for(auto x: model_txt){
-        for(auto y: x.second)
-            cout << "ctx: " << x.first << ", char: " << y.first << endl;
-    }*/
-    
 
 
     int pos = 0;
     double minBits = -1, resBits;
     for(int i=0; i<N; i++){
-        cout << "\nResults " << i;
+        cout << "\nResults of model " << texts[i];
         joinModelTxt(models[i], model_txt, results[i]);
-        resBits = getCompressBits(results[i], num_symbols, alpha);
-        cout << " -> num bits min = " << resBits << endl;
+        resBits = getCompressBits(results[i], alpha);
+        cout << " -> entropia = " << resBits << endl;
         if(minBits < 0 || resBits < minBits){
             minBits = resBits;
             pos = i;
         } 
     }
-    cout << "Language of the text is the same of model " << pos+1 << endl;
+    cout << "Language of the text is the same of model " << texts[pos] << endl;
 
     return 0;
 }
