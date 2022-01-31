@@ -88,8 +88,33 @@ void getModelTxt(mapa &model, string modelFilename, int k){
 }
 
 
-int getTxt( mapa &t_map, string filename, int k){
-    ifstream t(filename);
+int main(int argc, char *argv[]){
+
+    if(argc < 4){
+        puts("\nUsage: text order alpha");
+        exit(1);
+    }
+    
+    int k = atoi(argv[argc-2]);
+    double alpha = stof(argv[argc-1]);
+    if(alpha < 0 || alpha > 1){
+        cout << "Error alpha value: 0 <= alpha <= 1" << endl;
+        exit(1);
+    }
+    if(k < 1){
+        cout << "Error order value: 1 <= order" << endl;
+        exit(1);
+    }
+
+    
+    string dir = "./LanguageTexts/", texts[] = {"czech.txt","danish.txt","english.txt","finnish.txt","french.txt", "italian.txt", "polish.txt", "portugues.txt", "romanian.txt", "spanish.txt"};
+    mapa models[N];
+    for(int i=0; i<N; i++)
+        getModelTxt(models[i], dir+texts[i], k);
+        
+
+
+    ifstream t(argv[1]);
     if(!t){
         cerr << "Error opening file!" << endl;
         exit(1);
@@ -97,8 +122,9 @@ int getTxt( mapa &t_map, string filename, int k){
 
     char c;
     vector<char> circularBuffer;
-    int fillcb, aux_cnt, total_letters=0, cb_ptr = 0, num_symbols=0;
+    int fillcb, aux_cnt, total_letters=0, cb_ptr = 0, num_symbols=0, nc=0;
     string rdline, aux, aux2;
+    double nBits[N];
 
     while( getline(t, rdline) ){
         fillcb=0; //contador de elementos do buffer fica a 0 quando muda a linha
@@ -128,105 +154,32 @@ int getTxt( mapa &t_map, string filename, int k){
                     cb_ptr = ((cb_ptr + 1) % k); //incrementa o ponteiro do circular buffer
                     circularBuffer[cb_ptr] = c; //adiciona o novo caracter ao buffer
 
-                    t_map[aux][c] = 0; //inicializar a zero
+                    //para o symbolo encotrado calcular a sua probabilidade para todos os contextos 
+                    for(int i=0; i<N; i++){
+                        for(auto x: models[i][aux])
+                            nc += x.second;
+                        nBits[i] += double(-log2( (models[i][aux][c]+alpha)/( nc+alpha*60)));
+                        nc = 0;
+                    }
                 }
             }
         }
     }
     t.close();
-    return num_symbols;
-}
 
+    cout << "Nº simbolos de " << num_symbols << endl;
 
-void joinModelTxt(mapa &mdl, mapa &txt, mapa &result){
-    for(auto x: txt){
-        for(auto y: x.second){
-            result[x.first][y.first] = mdl[x.first].count(y.first)!=0? mdl[x.first][y.first] : 0;
-        }
-    }
-}
-
-
-double getCompressBits(mapa &t_map, double alpha){
-    int total=0, tc_aux;
-    vector<int> occur, total_ctx;
-    vector<double> h_ctx, pi, hi;
-    double model_entropy=0, acum=0;
-
-    for(auto a1: t_map){
-        tc_aux = 0;
-        acum = 0;
-
-        for(auto a2: a1.second){
-            occur.push_back(a2.second);
-            tc_aux += a2.second;
-        }
-        total += tc_aux;
-        total_ctx.push_back(tc_aux); 
-
-        for(int i=0; i<occur.size(); i++)
-            pi.push_back( double((occur[i]+alpha)/(tc_aux+alpha*60)) );
-        for(int i=0; i<pi.size(); i++){
-            hi.push_back( double(pi[i]*log2(pi[i])) );
-            acum += double(hi[i]);
-            
-        }  
-        h_ctx.push_back( -acum );
-        occur.clear();
-        hi.clear();
-        pi.clear();
-    }
-    
-    for(int i=0; i<h_ctx.size(); i++) 
-        model_entropy += double(h_ctx[i]*total_ctx[i]/total);
-    return model_entropy;
-}
-
-
-
-int main(int argc, char *argv[]){
-
-    if(argc < 4){
-        puts("\nUsage: text order alpha");
-        exit(1);
-    }
-    
-    int k = atoi(argv[argc-2]);
-    double alpha = stof(argv[argc-1]);
-    if(alpha < 0 || alpha > 1){
-        cout << "Error alpha value: 0 <= alpha <= 1" << endl;
-        exit(1);
-    }
-    if(k < 1){
-        cout << "Error order value: 1 <= order" << endl;
-        exit(1);
-    }
-
-    
-    string dir = "./LanguageTexts/", texts[] = {"czech.txt","danish.txt","english.txt","finnish.txt","french.txt", "italian.txt", "polish.txt", "portugues.txt", "romanian.txt", "spanish.txt"};
-    mapa models[N], results[N];
-    for(int i=0; i<N; i++){
-        getModelTxt(models[i], dir+texts[i], k);
-    }
-        
-    
-    mapa model_txt;
-    int num_symbols = getTxt(model_txt, argv[argc-3], k);
-    cout << "Numero de symbols do texto = " << num_symbols <<endl;
-
-
+    //encontrar o modelo com menor numero de bits necessarios
     int pos = 0;
-    double minBits = -1, resBits;
+    double min= -1;
     for(int i=0; i<N; i++){
-        cout << "\nResults of model " << texts[i];
-        joinModelTxt(models[i], model_txt, results[i]);
-        resBits = getCompressBits(results[i], alpha);
-        cout << " -> entropia = " << resBits << endl;
-        if(minBits < 0 || resBits < minBits){
-            minBits = resBits;
+        cout << "Results of model " << texts[i] << " -> bits/symbol = " << nBits[i]/num_symbols << endl;
+        if(min < 0 || nBits[i] < min){
+            min = nBits[i];
             pos = i;
         } 
     }
+
     cout << "Language of the text is the same of model " << texts[pos] << endl;
 
     return 0;
