@@ -38,7 +38,57 @@ int getModelCSV(mapa &model, string filename){
 }
 
 
-int getModelTxt( mapa &t_map, string filename, int k){
+void getModelTxt(mapa &model, string modelFilename, int k){
+    ifstream ri(modelFilename);
+    if(!ri){
+        cerr << "Error opening Ri file!" << endl;
+        exit(0);
+    }
+
+    char c;
+    vector<char> circularBuffer;
+    mapa t_map;
+    int fillcb, aux_cnt, total_letters=0, cb_ptr = 0, num_symbols=0;
+    string rdline, aux, aux2;
+
+    while( getline(ri, rdline) ){
+        fillcb=0; //contador de elementos do buffer fica a 0 quando muda a linha
+        circularBuffer.clear(); //limpa o buffer quando muda a linha
+        for (int j = 0; j < rdline.size(); ++j){
+            c = tolower(rdline[j]); //recolhe novo caracter
+            if (!isspace(c)) //se for letra
+            {   
+                total_letters++; //conta o número de letras
+                if(fillcb < k)// enquanto o buffer ainda não está cheio
+                {   
+                    circularBuffer.push_back(c); //primeiras k letras só adiciona ao buffer
+                    fillcb++;
+                    cb_ptr = circularBuffer.size() - 1;
+                }else // quando o buffer está cheio
+                {   
+                    num_symbols++;
+                    aux = "";
+                    aux_cnt=cb_ptr;
+                    
+                    for (int i = 1; i<=k; i++)
+                    {
+                        aux_cnt = ((cb_ptr + i) % k); 
+                        aux2 = string(1,circularBuffer[aux_cnt]);
+                        aux = aux + aux2  ; //escreve o contexto
+                    }
+                    cb_ptr = ((cb_ptr + 1) % k); //incrementa o ponteiro do circular buffer
+                    circularBuffer[cb_ptr] = c; //adiciona o novo caracter ao buffer
+                    model[aux][c]++;
+                }
+            }
+        }
+    }
+    ri.close();
+}
+
+
+
+int getTxt( mapa &t_map, string filename, int k){
     ifstream t(filename);
     if(!t){
         cerr << "Error opening file!" << endl;
@@ -135,24 +185,27 @@ int getCompressBits(mapa &t_map, int num_symbols, double alpha){
 int main(int argc, char *argv[]){
 
     if(argc < 5){
-        puts("\nUsage: model1 model2 [modelx, ...] text alpha");
+        puts("\nUsage: model1 model2 [modelx, ...] text order alpha");
         exit(1);
     }
     
-    int N = argc-3, k = -1, ki;
-    cout << "argc = " << argc << ", N = " << N << endl;
+    int N = argc-4, k = atoi(argv[argc-2]);
+    double alpha = stof(argv[argc-1]);
+    if(alpha < 0 || alpha > 1){
+        cout << "Error alpha value: 0 <= alpha <= 1" << endl;
+        exit(1);
+    }
+    if(k < 1){
+        cout << "Error order value: 1 <= order" << endl;
+        exit(1);
+    }
+
 
     mapa models[N], results[N];
     for(int i=0; i<N; i++){
-        ki = getModelCSV(models[i], argv[i+1]);
-        //verificaçoes do valor da ordem dos modelos
-        if(k < 0) k = ki;
-        else if(k != ki){
-            cout << "Diferentes valores de k entre modelos." << endl;
-            exit(2);
-        }
-        cout << "\n\nModelo " << i+1 << endl;
+        getModelTxt(models[i], argv[i+1], k);
         /*
+        cout << "\n\nModelo " << i+1 << endl;
         for(auto x: models[i]){
             for(auto y: x.second){
                 cout << "ctx: " << x.first << ", char: " << y.first << ", ocur: " << y.second << endl;
@@ -163,16 +216,15 @@ int main(int argc, char *argv[]){
 
     
     mapa model_txt;
-    int num_symbols = getModelTxt(model_txt, argv[N+1], k);
-    double alpha = stof(argv[argc-1]);
+    int num_symbols = getTxt(model_txt, argv[N+1], k);
+    cout << "Numero de symbols do texto = " << num_symbols <<endl;
     /*
     cout << "\nModelo do texto: " << endl;
     for(auto x: model_txt){
         for(auto y: x.second)
             cout << "ctx: " << x.first << ", char: " << y.first << endl;
     }*/
-    cout << "Numero de symbols do texto = " << num_symbols <<endl;
-    cout << "alpha = " << alpha <<endl;
+    
 
 
     int pos = 0;
