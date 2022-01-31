@@ -147,7 +147,7 @@ void joinModelTxt(mapa &mdl, mapa &txt, mapa &result){
 }
 
 
-int getCompressBits(mapa &t_map, double alpha){
+double getCompressBits(mapa &t_map, double alpha){
     int total=0, tc_aux;
     vector<int> occur, total_ctx;
     vector<double> h_ctx, pi, hi;
@@ -155,6 +155,7 @@ int getCompressBits(mapa &t_map, double alpha){
 
     for(auto a1: t_map){
         tc_aux = 0;
+        acum = 0;
 
         for(auto a2: a1.second){
             occur.push_back(a2.second);
@@ -165,11 +166,12 @@ int getCompressBits(mapa &t_map, double alpha){
 
         for(int i=0; i<occur.size(); i++)
             pi.push_back( double((occur[i]+alpha)/(tc_aux+alpha*60)) );
-        for(int i=0; i<pi.size(); i++)
+        for(int i=0; i<pi.size(); i++){
             hi.push_back( double(pi[i]*log2(pi[i])) );
-        for(int i=0; i<hi.size(); i++)
-            acum+= hi[i];
-        h_ctx.push_back( -acum ); 
+            acum += double(hi[i]);
+            
+        }  
+        h_ctx.push_back( -acum );
         occur.clear();
         hi.clear();
         pi.clear();
