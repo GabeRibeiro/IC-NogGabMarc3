@@ -84,8 +84,6 @@ void getModelCSV(mapa &model, string modelFilename){
     ri.close();
 }
 
-
-
 int main(int argc, char *argv[]){
 
     if(argc != 5){
