@@ -102,6 +102,7 @@ int main(int argc, char *argv[]){
         exit(1);
     }
 
+    
     mapa model;
     getModelTxt(model, argv[1], k);
 
@@ -155,8 +156,9 @@ int main(int argc, char *argv[]){
             }
         }
     }
-    t.close();  
-    cout << "\nEstimated number of bits/symbol  " << double(nbits/num_symbols) << endl;
+    t.close(); 
+    cout << "ordem "<< k << ", alpha "<< alpha;
+    cout << " -> bits/symbol  " << double(nbits/num_symbols) << endl;
     
 
     return 0;
