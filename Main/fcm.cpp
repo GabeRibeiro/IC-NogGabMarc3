@@ -117,7 +117,7 @@ void fcmMain(vector<string> ficheiros,int k,string output_file)
     }
 
     //ofs << "--------------------------------" << endl;
-    cout << "Entropy = " << model_entropy << endl;
+    cout << "ordem " << k << ", total de simbolos " << total_letters - k << ", entropia " << model_entropy << endl;
     //ofs << "Entropy = " << model_entropy << endl;
     //ofs << "Total Letters = " << total_letters << endl;
     //ofs << "Total Contexts = " << total_ctx_count << endl;
