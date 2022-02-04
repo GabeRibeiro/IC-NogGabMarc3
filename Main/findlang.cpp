@@ -91,10 +91,11 @@ void getModelTxt(mapa &model, string modelFilename, int k){
 int main(int argc, char *argv[]){
 
     if(argc < 4){
-        puts("\nUsage: text order alpha");
+        puts("\nUsage: model.txt text order alpha");
         exit(1);
     }
     
+    int Nmdls = argc - 4;
     int k = atoi(argv[argc-2]);
     double alpha = stof(argv[argc-1]);
     if(alpha < 0 || alpha > 1){
@@ -108,13 +109,15 @@ int main(int argc, char *argv[]){
 
     
     string dir = "./LanguageTexts/", texts[] = {"czech.txt","danish.txt","english.txt","finnish.txt","french.txt", "italian.txt", "polish.txt", "portugues.txt", "romanian.txt", "spanish.txt"};
-    mapa models[N];
-    for(int i=0; i<N; i++)
-        getModelTxt(models[i], dir+texts[i], k);
+    mapa models[N + Nmdls];
+    for(int i=0; i<N +Nmdls; i++)
+        getModelTxt(models[i], (i<Nmdls? argv[i+1]: dir+texts[i-Nmdls]), k);
+        
+        
         
 
 
-    ifstream t(argv[1]);
+    ifstream t(argv[argc-3]);
     if(!t){
         cerr << "Error opening file!" << endl;
         exit(1);
@@ -124,7 +127,7 @@ int main(int argc, char *argv[]){
     vector<char> circularBuffer;
     int fillcb, aux_cnt, total_letters=0, cb_ptr = 0, num_symbols=0, nc=0;
     string rdline, aux, aux2;
-    double nBits[N];
+    double nBits[N+Nmdls];
 
     while( getline(t, rdline) ){
         fillcb=0; //contador de elementos do buffer fica a 0 quando muda a linha
@@ -155,7 +158,7 @@ int main(int argc, char *argv[]){
                     circularBuffer[cb_ptr] = c; //adiciona o novo caracter ao buffer
 
                     //para o symbolo encotrado calcular a sua probabilidade para todos os contextos 
-                    for(int i=0; i<N; i++){
+                    for(int i=0; i<N+Nmdls; i++){
                         for(auto x: models[i][aux])
                             nc += x.second;
                         nBits[i] += double(-log2( (models[i][aux][c]+alpha)/( nc+alpha*60)));
@@ -172,15 +175,15 @@ int main(int argc, char *argv[]){
     //encontrar o modelo com menor numero de bits necessarios
     int pos = 0;
     double min= -1;
-    for(int i=0; i<N; i++){
-        cout << "Results of model " << texts[i] << " -> bits/symbol = " << nBits[i]/num_symbols << endl;
+    for(int i=0; i<N+Nmdls; i++){
+        cout << "Results of model " << (i<Nmdls? argv[i+1] : texts[i-Nmdls]) << " -> bits/symbol = " << nBits[i]/num_symbols << endl;
         if(min < 0 || nBits[i] < min){
             min = nBits[i];
             pos = i;
         } 
     }
 
-    cout << "Language of the text is the same of model " << texts[pos] << endl;
+    cout << "Language of the text is the same of model " << (pos<Nmdls? argv[pos+1] : texts[pos-Nmdls]) << endl;
 
     return 0;
 }
